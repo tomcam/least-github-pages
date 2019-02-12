@@ -3,7 +3,7 @@
 This guide shows you how to create information-heavy websites quickly using GitHub Pages.
 GitHub Pages is free if your repository (file storage area) is public.
 
-If you're ready to go, click for the [GitHub Pages Tutorial](./github-pages-tutorial.md).
+If you're ready to go, click for the [GitHub Pages Tutorial](./docs/README.md).
 If you're not sure why you should use GitHub, read on.
 
 ## What this GitHub pages tutorial covers
@@ -45,3 +45,5 @@ Here are some examples where you wouldn't want to use it.
 * Don't use GitHub pages for sites that require any kind of data from the user. GitHub Pages sites are read-only.
 You can't use them to collect usernames, passwords, or any other kind of data
 * GitHub pages isn't too useful for sites with complex formatting needs
+
+Click [here for the GitHub Pages Tutorial](./docs/README.md).
