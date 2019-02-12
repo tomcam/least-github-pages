@@ -3,8 +3,8 @@
 This guide shows you how to create information-heavy websites quickly using GitHub Pages.
 GitHub Pages is free if your repository (file storage area) is public.
 
-https://github.com/join
-https://github.com/tomcam/github-pages/
+* First [Join GitHub](https://github.com/join). It's free.
+* Visit [https://pages.github.com/](https://pages.github.com/)
 
 ## What this GitHub pages tutorial covers
 
