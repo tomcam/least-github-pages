@@ -64,7 +64,7 @@ just fine.
 
 After it's saved you see a preview:
 
-![README.md file in preview mode](./assets/gitub-preview-readme.png)
+![README.md file in preview mode](./assets/github-preview-readme.png)
 
 If you wanted you could edit the file again by choosing the pencil icon.
 
