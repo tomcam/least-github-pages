@@ -13,7 +13,7 @@ This guide shows how to create a GitHub Pages site from a public project.
 
 The **Create a new repository** page appears.
 
-![Creating a new repository](./images/create-new-github-repository.png)
+![Creating a new repository](./assets/create-new-github-repository.png)
 
 * Give it a name made up of lowercase letters, numbers, and hypen characters (the minus sign, or `-`) instead
 of spaces. It will be used as a filename, and it will be given prominence in Web searches.
@@ -36,15 +36,15 @@ must have a file named `README.md` in them.
 
 * Click `creating a new file`.
 
-![The create a new file page](./images/quick-setup-create-a-new-file.png)
+![The create a new file page](./assets/quick-setup-create-a-new-file.png)
 
 * Start typing the directory name, `pages`:
 
-![](./images/create-a-new-file-pages-directory.png)
+![](./assets/create-a-new-file-pages-directory.png)
 
 Here's where the directory gets created.
 
 * Type a slash character (`/`), then the name of the file, `README.md` in this case:
 
-![Creating a pages directory and a README.md file at the same time](./images/github-create-readme-file.png)
+![Creating a pages directory and a README.md file at the same time](./assets/github-create-readme-file.png)
 
