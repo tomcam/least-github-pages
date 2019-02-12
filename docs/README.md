@@ -22,7 +22,7 @@ of spaces. It will be used as a filename, and it will be given prominence in Web
 
 You're not done yet!
 
-## Create a /pages directory with a README.md file in it
+## Creating a /pages directory with a README.md file in it
 
 A Quick setup page appears. You'll see a message that says `Get started by creating a new file or uploading an existing file.`
 
@@ -47,4 +47,19 @@ Here's where the directory gets created.
 * Type a slash character (`/`), then the name of the file, `README.md` in this case:
 
 ![Creating a pages directory and a README.md file at the same time](./assets/github-create-readme-file.png)
+
+* You've now created a file named README.md in the `/pages` directory of the repo.
+
+* Add a line starting with the pound sign/hash tag. It's a title that will be converted
+to an HTML `<h1`> tag, so something like `# Foobar tutorial`. Then add a blank line, followed by some 
+text, say, `Thanks for using Foobar`. Here's what it will look like:
+
+![Editing the README.md file](/assets/github-pages-edit-readme.png)
+
+When you're finished, click **Commit changes** at the bottom of the page. 
+Normally you'd put a comment there, but the default (`Create README.md`) does the job
+just fine.
+
+![Saving the README.md file](/assets/github-pages-save-readme.png)
+
 
