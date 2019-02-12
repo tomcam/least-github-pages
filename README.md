@@ -3,7 +3,7 @@
 This guide shows you how to create information-heavy websites quickly using GitHub Pages.
 GitHub Pages is free if your repository (file storage area) is public.
 
-If you're ready to go, click for the (GitHub Pages Tutorial)[./github-pages-tutorial.md].
+If you're ready to go, click for the [GitHub Pages Tutorial](./github-pages-tutorial.md).
 If you're not sure why you should use GitHub, read on.
 
 ## What this GitHub pages tutorial covers
