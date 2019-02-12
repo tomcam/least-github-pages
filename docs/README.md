@@ -54,12 +54,17 @@ Here's where the directory gets created.
 to an HTML `<h1`> tag, so something like `# Foobar tutorial`. Then add a blank line, followed by some 
 text, say, `Thanks for using Foobar`. Here's what it will look like:
 
-![Editing the README.md file](/assets/github-pages-edit-readme.png)
+![Editing the README.md file](./assets/github-pages-edit-readme.png)
 
 When you're finished, click **Commit changes** at the bottom of the page. 
 Normally you'd put a comment there, but the default (`Create README.md`) does the job
 just fine.
 
-![Saving the README.md file](/assets/github-pages-save-readme.png)
+![Saving the README.md file](./assets/github-pages-save-readme.png)
 
+After it's saved you see a preview:
+
+![README.md file in preview mode](./assets/github-preview-readme.png)
+
+If you wanted you could edit the file again by choosing the pencil icon.
 
