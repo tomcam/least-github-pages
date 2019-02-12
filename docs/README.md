@@ -46,5 +46,5 @@ Here's where the directory gets created.
 
 * Type a slash character (`/`), then the name of the file, `README.md` in this case:
 
-![Creating a pages directory and a README.md file at the same time](./images/github-create-readme-file)
+![Creating a pages directory and a README.md file at the same time](./images/github-create-readme-file.png)
 
