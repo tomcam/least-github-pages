@@ -22,6 +22,27 @@ of spaces. It will be used as a filename, and it will be given prominence in Web
 
 You're not done yet!
 
+## Creating a gh-pages branch
+
+Since websites like the one you're creating with GitHub Pages often accompany
+something like the code for a software project, GitHub Pages has a shortcut.
+It treats a branch named `gh-pages` specially, shortening some of the
+steps to publishing. Let's create a branch by that name.
+
+You'll see a button that says **Branch: master**.
+
+* Click the  **Branch: master** button
+
+A **Switch branches/tags** dropdown appears.
+
+* Enter **gh-pages** into the textbox.
+
+* When you're finished, click the area below that says **Create branch: gh-pages**.
+
+![Creating a branch named gh-pages](./assets/github-create-gh-pages-branch)
+
+The button should now say **Branch: gh-pages**.
+
 ## Creating a /pages directory with a README.md file in it
 
 A Quick setup page appears. You'll see a message that says `Get started by creating a new file or uploading an existing file.`
