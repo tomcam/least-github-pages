@@ -29,7 +29,7 @@ On some configurations you may see the **Start a project** button, so click it i
 
 The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
 and it must go in a directory named `/docs`. Sites like the one you're creating with GitHub Pages often accompany
-code for a software project and `/docs` is the logical locaqtion.
+code for a software project and `/docs` is the logical location.
 
 Another advantage is that if you want to use 
 Jekyll features it's expected by that CMS as well.
@@ -41,42 +41,6 @@ a README.md file, which will be silently converted to `index.html` files.
 `Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. Choose the `creating a new file` link:
 
 ![Creating a new repository](./assets/github-quick-setup.png)
-
-An edit window appears letting you type the filename *and also the path*.
-
-![The create a new file page](./assets/quick-setup-create-a-new-file.png)
-
-* Start typing the directory name, `docs`:
-
-![](./assets/create-a-new-file-pages-directory.png)
-
-Here's where the directory gets created.
-
-* Type a slash character (`/`), then the name of the file, `README.md` in this case:
-
-![Creating a pages directory and a README.md file at the same time](./assets/github-create-readme-file.png)
-
-* You've now created a file named README.md in the `/pages` directory of the repo.
-
-* Add a line starting with the pound sign/hash tag. It's a title that will be converted
-to an HTML `<h1`> tag, so something like `# Foobar tutorial`. Then add a blank line, followed by some 
-text, say, `Thanks for using Foobar`. Here's what it will look like:
-
-![Editing the README.md file](./assets/github-pages-edit-readme.png)
-
-When you're finished, click **Commit changes** at the bottom of the page. 
-Normally you'd put a comment there, but the default (`Create README.md`) does the job
-just fine.
-
-![Saving the README.md file](./assets/github-pages-save-readme.png)
-
-After it's saved you see a preview:
-
-![README.md file in preview mode](./assets/github-preview-readme.png)
-
-If you wanted you could edit the file again by choosing the pencil icon.
-
-# Stop here?
 
 ![Type the pathname in](./assets/github-type-full-pathname.png)
 
@@ -127,4 +91,11 @@ From the list of sections on the middle of the page choose **Settings**:
 
 * Find the section named **GitHub Pages**, and choose  **Source**.
 
+* Choose **master branch /docs folder**.
+
+Now you'll be able to avoid specifying the `/docs` folder at the base of every link.
+
+# Create a new page and link to it
+
+Let's see how linking works by creating a second page, then linking to it from the first.
 
