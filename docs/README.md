@@ -158,4 +158,6 @@ the text you added rendered as a link:
 
 * Click the link and you'll navigate to GitHub's preview of the tutorial page:
 
+![Tutorial page preview](./assets/github-pages-tutorial-md.png)
+
 
