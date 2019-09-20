@@ -9,37 +9,54 @@ This guide shows how to create a GitHub Pages site from a public project.
 
 ## Creating a repository for your projects
 
-* Choose the **+** menu, then **New repository**.
+* Choose the **+** symbol, then **New repository**.
 
 The **Create a new repository** page appears.
 
 ![Creating a new repository](./assets/create-new-github-repository.png)
 
-* Give it a name made up of lowercase letters, numbers, and hypen characters (the minus sign, or `-`) instead
-of spaces. It will be used as a filename, and it will be given prominence in Web searches.
+
+
+On some configurations you may see the **Start a project** button, so click it if so.
+
+![Creating a new repository](/assets/github-start-project.png)
+
+* Give it a name. You can use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
 
 * Leave **Public** checked, then choose **Create repository**
 
-You're not done yet!
+## Create a /docs/README.md file
 
-## Creating a gh-pages branch
+The first thing needed is to create a file named specifically README.md, and it must go in a directory named `/docs`/
+
+* Under **Quick setup — if you’ve done this kind of thing before** it says
+`Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. Choose the `creating a new file` link:
+
+![Creating a new repository](/assets/github-quick-setup.png)
+
+### How to create a file in the /docs directory
 
 Since websites like the one you're creating with GitHub Pages often accompany
-something like the code for a software project, GitHub Pages has a shortcut.
-It treats a branch named `gh-pages` specially, shortening some of the
-steps to publishing. Let's create a branch by that name.
+something like the code for a software project, 
+it's best to put your publication in the `/docs` 
+directory. Another advantage is that if you want to use 
+Jekyll features it's preferred by that CMS as well.
 
-You'll see a button that says **Branch: master**.
+## TODO: Mention no README or license required
 
-* Click the  **Branch: master** button
+![Choose the Settings tab](./assets/github-settings-tab.png)
 
-A **Switch branches/tags** dropdown appears.
+### Choose source: master branch /docs folder
 
-* Enter **gh-pages** into the textbox.
+* Find the section named **GitHub Pages**, and choose  **Source**.
+
+A list of options appears. Choose **master branch /docs folder**.
+
+
 
 * When you're finished, click the area below that says **Create branch: gh-pages**.
 
-![Creating a branch named gh-pages](./assets/github-create-gh-pages-branch)
+![Creating a branch named gh-pages](./assets/github-create-gh-pages-branch.png)
 
 The button should now say **Branch: gh-pages**.
 
