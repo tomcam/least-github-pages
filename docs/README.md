@@ -15,34 +15,66 @@ The **Create a new repository** page appears.
 
 ![Creating a new repository](./assets/create-new-github-repository.png)
 
-
-
 On some configurations you may see the **Start a project** button, so click it if so.
 
-![Creating a new repository](/assets/github-start-project.png)
+![Creating a new repository](./assets/github-start-project.png)
 
-* Give it a name. You can use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
+* Give the repository a name. Normally it's best to use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
+
+## TODO: Mention no README or license required
 
 * Leave **Public** checked, then choose **Create repository**
 
-## Create a /docs/README.md file
+## Create a file named /docs/README.md 
 
-The first thing needed is to create a file named specifically README.md, and it must go in a directory named `/docs`/
+The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
+and it must go in a directory named `/docs`. Sites like the one you're creating with GitHub Pages often accompany
+code for a software project and `/docs` is the logical locaqtion.
+
+Another advantage is that if you want to use 
+Jekyll features it's expected by that CMS as well.
+
+GitHub pages sites use directory structures. Each subdirectory with pages you want published must contain
+a README.md file, which will be silently converted to `index.html` files.
 
 * Under **Quick setup — if you’ve done this kind of thing before** it says
 `Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. Choose the `creating a new file` link:
 
-![Creating a new repository](/assets/github-quick-setup.png)
+![Creating a new repository](./assets/github-quick-setup.png)
 
-### How to create a file in the /docs directory
+An edit window appears letting you type the filename *and also the path*.
 
-Since websites like the one you're creating with GitHub Pages often accompany
-something like the code for a software project, 
-it's best to put your publication in the `/docs` 
-directory. Another advantage is that if you want to use 
-Jekyll features it's preferred by that CMS as well.
+![Type the pathname in](./assets/github-type-full-pathname.png)
 
-## TODO: Mention no README or license required
+* Enter `docs/README.md` and you'll see how GitHub separates the path and filename
+interactively, visually distinguishing each level of the directory
+hierarchy:
+
+![Each slash creates a new directory](./assets/github-enter-directory-slash-filename.png)
+
+### All pages have headers and text
+
+Create a page that looks something like this. It doesn't matter what you write,
+as long as you start the first line with a hash tag and a space, like so: `# `
+
+```
+# Please start here
+
+Thanks for using our product.
+```
+
+The `# ` signfies a level 1 header. The text underneath it is plain text.
+
+Let's call this page done for now. 
+
+* At the bottom of the page choose **Commit new file**.
+
+You can optionally put a brief note in the top line (50 characters or less by convention)
+and a longer explanation under it.
+
+Github shows the page rendered as HTML:
+
+![Your first README.md](./assets/github-pages-first-readme.png)
 
 ![Choose the Settings tab](./assets/github-settings-tab.png)
 
