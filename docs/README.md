@@ -99,3 +99,23 @@ Now you'll be able to avoid specifying the `/docs` folder at the base of every l
 
 Let's see how linking works by creating a second page, then linking to it from the first.
 
+* Navigate back to your project directory by clicking the project name at the upper left of the page.
+
+* Choose the `/doc` directory link. This is important because you don't want your
+files to end up in the root directory.
+
+* Choose **Create new file** and give it the name `tutorial.md`:
+
+![Create a file named tutorial.md in the /docs directory](./assets/github-create-tutorial-md-file.png)
+
+* Give it these contents:
+
+```md
+# Quick start tutorial
+
+Here's how to get up and running as fast as possible.
+We'll explain the details later.
+```
+
+* Move to the bottom of the page and choose **Commit changes** to save this file.
+
