@@ -154,7 +154,8 @@ and add the following line:
 
 Thanks for using our product.
 
-If you want to dive right in, try our [quick start tutorial](tutorial.md). 
+If you want to dive right in, 
+try our [quick start tutorial](tutorial.md). 
 ```
 
 * Choose **Commit changes** to save.;
