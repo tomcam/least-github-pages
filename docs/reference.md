@@ -1,0 +1,13 @@
+# Reference
+
+## GitHub Pages
+* [Customizing GitHub Pages](https://help.github.com/en/categories/customizing-github-pages) should 
+be your first stop when diagnosing an issue or when trying to go behind the stock Jekyll feature set.
+It covers [custom domains](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages),
+[plugins](https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site)
+for things like [sitemaps](https://help.github.com/en/articles/sitemaps-for-github-pages), 
+[RSS feeds](https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site), and
+[emojis](https://help.github.com/en/articles/emoji-on-github-pages)
+
+## Jekyll
+* [Minima](https://github.com/jekyll/minima) is widely cited as a good Jekyll theme to study
