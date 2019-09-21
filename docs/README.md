@@ -9,11 +9,11 @@ This guide shows how to create a GitHub Pages site from a public project.
 
 ## Creating a repository for your projects
 
-* Choose the **+** symbol, then **New repository**.
+* Choose the **+** symbol, then **New repository** (or just click this [Create new repository](https://github.com/new) link.
 
 The **Create a new repository** page appears.
 
-![Creating a new repository](./assets/create-new-github-repository.png =250x)
+![Creating a new repository](./assets/create-new-github-repository.png)
 
 On some configurations you may see the **Start a project** button, so click it if so.
 
@@ -23,7 +23,7 @@ On some configurations you may see the **Start a project** button, so click it i
 
 ## TODO: Mention no README or license required
 
-* Leave **Public** checked, then choose **Create repository**
+* Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
 ## Create a file named /docs/README.md 
 
@@ -41,8 +41,6 @@ a README.md file, which will be silently converted to `index.html` files.
 `Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. Choose the `creating a new file` link:
 
 ![Creating a new repository](./assets/github-quick-setup.png)
-
-![Type the pathname in](./assets/github-type-full-pathname.png)
 
 * Enter `docs/README.md` and you'll see how GitHub separates the path and filename
 interactively, visually distinguishing each level of the directory
@@ -79,13 +77,12 @@ Github shows the page rendered as HTML:
 
 ## Set master branch to /docs folder 
 
-GitHub Pages and Jekyll use a directory structure but putting `/docs`
-before everything can get old. Avoid this by establishing it
+GitHub Pages and Jekyll prefer you to use a directory structure 
+starting not in the root directory but in `/docs`. Inserting `/docs`
+before in a path can get old. GitHub lets you avoid this by establishing it
 as the base directory for your documentation site.
 
-### Choose the Settings tab
-
-From the list of sections on the middle of the page choose **Settings**:
+* From the list of sections on the middle of the page choose **Settings**:
 
 ![Choose the Settings tab](./assets/github-settings-tab.png)
 
@@ -95,13 +92,12 @@ From the list of sections on the middle of the page choose **Settings**:
 
 Now you'll be able to avoid specifying the `/docs` folder at the base of every link.
 
-### Open the page in GitHub pages
+## Open the page in GitHub pages
 
 A new message appears above it in the **GitHub Pages** section, saying **Your site is ready to be published at ...**, 
 followed by a link. Open that link in a new browser tab:
 
 ![Opening your site in GitHub Pages](./assets/github-pages-opened.png)
-
 
 # Create a new page and link to it
 
