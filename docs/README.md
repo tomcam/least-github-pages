@@ -21,8 +21,6 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Give the repository a name. Normally it's best to use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
 
-## TODO: Mention no README or license required
-
 * Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
 ## Create a file named /docs/README.md 
