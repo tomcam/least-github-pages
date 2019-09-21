@@ -10,7 +10,7 @@ It covers [custom domains](https://help.github.com/en/articles/using-a-custom-do
 for things like [sitemaps](https://help.github.com/en/articles/sitemaps-for-github-pages), 
 [RSS feeds](https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site), and
 [emojis](https://help.github.com/en/articles/emoji-on-github-pages)
-* Customizing CSS and  HTML in your Jekyll  theme](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme) from a GitHub perspective
+* [Customizing CSS and  HTML in your Jekyll  theme](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme) from a GitHub perspective
 
 ## Jekyll
 * [Minima](https://github.com/jekyll/minima) is widely cited as a good Jekyll theme to study
