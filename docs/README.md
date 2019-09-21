@@ -89,7 +89,7 @@ as the base directory for your documentation site.
 
 Changing the master branch to `/docs` means you will be able to avoid specifying the `/docs` folder at the base of every link.
 
-## Your site is now on GitHub Pages
+## Your site is now on GitHub Pages at github.io
 
 A new message appears above it in the **GitHub Pages** section, saying **Your site is ready to be published at ...**, 
 followed by a link. 
