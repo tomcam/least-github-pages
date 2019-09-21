@@ -50,4 +50,5 @@ Click [here for the GitHub Pages Tutorial](./docs/README.md).
 
 ## Notes
 
+* [Repos for GitHub Jekyll themes](https://github.com/pages-themes)
 * [Favicons](https://github.com/jekyll/minima#add-your-favicons)
