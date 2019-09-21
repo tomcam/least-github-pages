@@ -15,6 +15,11 @@
 │   └── _layouts/
 │       ├── default.html
 │       └── post.html
+│   └── _sass/
+│       ├── thistheme
+│       │   ├── _base.scss
+│       │   └── _layout.scss
+│       └── postback.scss
 │   ├── README.md
 │   ├── chapter1.md
 │   ├── chapter2.md
