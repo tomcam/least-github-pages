@@ -13,7 +13,7 @@ This guide shows how to create a GitHub Pages site from a public project.
 
 The **Create a new repository** page appears.
 
-![Creating a new repository](./assets/create-new-github-repository.png | width=250)
+![Creating a new repository](./assets/create-new-github-repository.png)
 
 On some configurations you may see the **Start a project** button, so click it if so.
 
