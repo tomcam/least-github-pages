@@ -95,8 +95,12 @@ From the list of sections on the middle of the page choose **Settings**:
 
 Now you'll be able to avoid specifying the `/docs` folder at the base of every link.
 
+### Open the page in GitHub pages
+
 A new message appears above it in the **GitHub Pages** section, saying **Your site is ready to be published at ...**, 
 followed by a link. Open that link in a new browser tab:
+
+![Opening your site in GitHub Pages](./assets/github-pages-opened.png)
 
 
 # Create a new page and link to it
