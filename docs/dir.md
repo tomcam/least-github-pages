@@ -28,7 +28,7 @@
 │   │   ├── article1.md
 │   │   └── article2.md
 │   ├── _posts/
-│   │   ├── 2020-10-31-Hallowee-post.md
+│   │   ├── 2020-10-31-Halloween-post.md
 │   │   ├── 2020-11-01-Blog-post-title.md
 │   │   └── 2020-12-05-Final-blog-post-title.md
 
