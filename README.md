@@ -1,6 +1,6 @@
 # The Least You Need to Know About GitHub Pages
 
-View this in [Github Pages](https://tomcam.github.io/github-pages/)
+View this in [Github Pages](https://tomcam.github.io/least-github-pages/)
 
 This guide shows you how to create information-heavy websites quickly 
 and interactively using GitHub Pages right on the GitHub website. You
@@ -14,11 +14,11 @@ GitHub Pages is free if your repository (file storage area) is public.
 This short GitHub shows in just a few pages how to:
 
 * Join GitHub (it's free)
-* Create a GitHub Pages project site 
+* Create a GitHub repository 
 * Create web pages by typing using a convention called Markdown, which lets
 you type `# The Least You Need to Know About GitHub Pages` and see it 
 rendered as an HTML page, as shown in the headline above.
-* Publish your pages as a website
+* Publish your pages as a GitHub Pages website
 * Link to other pages on your site
 * Link pages to other sites or other pages on your own site
 * Change the appearance of your site using Jekyll themes
