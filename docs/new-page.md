@@ -28,3 +28,40 @@ GitHub shows you the contents of the `/docs` directory. It should appear alongsi
 
 ![tutorial.md file next to README.md in GitHub](./assets/tutorial-and-readme.png)
 
+
+## Edit the original README.md and link to the new tutorial page
+
+* Navigate back to your project directory by clicking the project name at the upper left of the page.
+
+* Choose the `/doc` directory link, then choose `README.md`.
+
+It appears rendered in HTML. 
+
+![README.md preview](./assets/github-pages-nav-tutorial.png)
+
+
+* Click the pencil icon to edit it 
+and add the following line:
+
+
+```md{3}
+# Please start here
+
+Thanks for using our product.
+
+If you want to dive right in, 
+try our [quick start tutorial](tutorial.md). 
+```
+
+* Choose **Commit changes** to save.;
+
+The HTML preview of the new `README.md` appears with 
+the text you added rendered as a link:
+
+![Link added to README.md](./assets/github-pages-link-added.png)
+
+* Click the link and you'll navigate to GitHub's preview of the tutorial page:
+
+![Tutorial page preview](./assets/github-pages-tutorial-md.png)
+
+
