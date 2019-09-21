@@ -47,3 +47,7 @@ You can't use them to collect usernames, passwords, or any other kind of data
 * GitHub pages isn't too useful for sites with complex formatting needs
 
 Click [here for the GitHub Pages Tutorial](./docs/README.md).
+
+## Notes
+
+* [Favicons](https://github.com/jekyll/minima#add-your-favicons)
