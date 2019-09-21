@@ -6,6 +6,8 @@ GitHub Pages is free if your repository (file storage area) is public.
 If you're ready to go, click for the [GitHub Pages Tutorial](./docs/README.md).
 If you're not sure why you should use GitHub, read on.
 
+See this at [https://tomcam.github.io/github-pages/](https://tomcam.github.io/github-pages/)
+
 ## What this GitHub pages tutorial covers
 
 This short GitHub how-to shows in a few pages how to:
