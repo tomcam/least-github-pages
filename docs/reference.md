@@ -1,6 +1,8 @@
 # Reference
 
 ## GitHub Pages
+* [AboutGitHub Pages and Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll) discusses
+at a high level how GitHub Pages works with Jekyll
 * [Customizing GitHub Pages](https://help.github.com/en/categories/customizing-github-pages) should 
 be your first stop when diagnosing an issue or when trying to go behind the stock Jekyll feature set.
 It covers [custom domains](https://help.github.com/en/articles/using-a-custom-domain-with-github-pages),
