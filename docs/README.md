@@ -7,7 +7,7 @@ You only need to do this once:
 Your GitHub account is allowed unlimited public projects.
 This guide shows how to create a GitHub Pages site from a public project.
 
-## Creating a repository for your projects
+# Creating a repository for your projects
 
 * Choose the **+** symbol, then **New repository** (or just click this [Create new repository](https://github.com/new) link.
 
@@ -23,14 +23,13 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
-## Create a file named /docs/README.md 
+# Creating the first page at /docs/README.md 
 
 The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
 and it must go in a directory named `/docs`. Sites like the one you're creating with GitHub Pages often accompany
 code for a software project and `/docs` is the logical location.
 
-Another advantage is that if you want to use 
-Jekyll features it's expected by that CMS as well.
+Jekyll also expects your text to be in that directory as well.
 
 GitHub pages sites use directory structures. Each subdirectory with pages you want published must contain
 a README.md file, which will be silently converted to `index.html` files.
@@ -49,7 +48,7 @@ hierarchy:
 All GitHub Pages directory with files meant to appear in the website
 must have a file named `README.md` in them.
 
-### All pages have headers and text
+## All pages have headers and text
 
 Create a page that looks something like this. It doesn't matter what you write,
 as long as you start the first line with a hash tag and a space, like so: `# `
@@ -88,44 +87,31 @@ as the base directory for your documentation site.
 
 * Choose **master branch /docs folder**.
 
-Now you'll be able to avoid specifying the `/docs` folder at the base of every link.
+Changing the master branch to `/docs` means you will be able to avoid specifying the `/docs` folder at the base of every link.
+
+## Your site is now on GitHub Pages
+
+A new message appears above it in the **GitHub Pages** section, saying **Your site is ready to be published at ...**, 
+followed by a link. 
+
+```
+✓ Your site is published https://tomcam.github.io/gh/
+```
+
+As you can see, there's a pattern. A github project at `https://github.com/mycoolname/bigdocument` appears
+on `https://mycoolname.github.io/bigdocument`
 
 ## Open the page in GitHub pages
 
-A new message appears above it in the **GitHub Pages** section, saying **Your site is ready to be published at ...**, 
-followed by a link. Open that link in a new browser tab:
+* Open that link in a new browser tab:
 
 ![Opening your site in GitHub Pages](./assets/github-pages-opened.png)
 
-# Create a new page and link to it
+Congratulations. Your source code is now being run through Jekyll 
+at GitHub. You can edit it using GitHub's interactive editor, and
+Jekyll is automatically run when the source code changes.
 
-Let's see how linking works by creating a second page, then linking to it from the first.
-
-## Add an new page to the /docs directory
-
-* Navigate back to your project directory by clicking the project name at the upper left of the page.
-
-* Choose the `/doc` directory link. This is important because you don't want your
-files to end up in the root directory.
-
-* Choose **Create new file** and give it the name `tutorial.md`:
-
-![Create a file named tutorial.md in the /docs directory](./assets/github-create-tutorial-md-file.png)
-
-* Give it these contents:
-
-```md
-# Quick start tutorial
-
-Here's how to get up and running as fast as possible.
-We'll explain the details later.
-```
-
-* Move to the bottom of the page and choose **Commit changes** to save this file.
-
-GitHub shows you the contents of the `/docs` directory. It should appear alongside README.md:
-
-![tutorial.md file next to README.md in GitHub](./assets/tutorial-and-readme.png)
+[Create a new page and link to it](new-page.md)
 
 ## Edit the original README.md and link to the new tutorial page
 
