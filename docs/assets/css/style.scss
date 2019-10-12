@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-h1 { color: red; }
+h1 { color: red; border-bottom: none; margin-top: 6em;}
 
 img {
 display: block;
