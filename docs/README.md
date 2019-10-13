@@ -45,7 +45,7 @@ hierarchy:
 
 ![Each slash creates a new directory](./assets/github-enter-directory-slash-filename.png)
 
-All GitHub Pages directory with files meant to appear in the website
+All GitHub Pages directories with files meant to appear in the website
 must have a file named `README.md` in them.
 
 ## All pages have headers and text
