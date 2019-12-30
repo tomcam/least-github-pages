@@ -15,7 +15,7 @@ files to end up in the root directory.
 
 * Give it these contents:
 
-```md
+``` markdown
 # Quick start tutorial
 
 Here's how to get up and running as fast as possible.
@@ -44,7 +44,7 @@ It appears rendered in HTML.
 and add the following line:
 
 
-```md{3}
+``` md{3}
 # Please start here
 
 Thanks for using our product.
