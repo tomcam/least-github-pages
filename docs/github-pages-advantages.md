@@ -12,6 +12,7 @@ content management system if don't like GitHub Pages
 * GitHub Pages is built on top of Git and GitHub, a powerful version control combination.
 Version control lets you roll back to earlier versions of a page (or the whole site)
 if you make a mistake somewhere
+* Because it's based on GitHub, GitHub Pages automatically has a bug/feature reporting system called Issues that's available to every publication you create
 * GitHub offers a clear, easy-to-read preview of Markdown pages. 
 That means even if you don't use GitHub for the final output, you can quickly see a rough idea of the 
 finished page and make edits to it instantly, with automatic control.
