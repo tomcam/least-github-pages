@@ -30,16 +30,12 @@ If you're not sure about the advantages of using GitHub pages, see [Why Use GitH
 
 If you want to understand why GitHub pages may not suite your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
-Click [here for the GitHub Pages Tutorial](./docs/README.md).
-
-
-
 ## What this GitHub pages tutorial covers
 
 This short GitHub shows in just a few pages how to:
 
-* (Create a GitHub Account)[#creating-a-github-account]
-* (Create a GitHub repository)[#creating-a-repository-for-your-projects] 
+* [Create a GitHub Account](#creating-a-github-account)
+* [Create a GitHub repository](#creating-a-repository-for-your-projects)
 * Create web pages by typing using a convention called Markdown, which lets
 you type `# The Least You Need to Know About GitHub Pages` and see it 
 rendered as an HTML page, as shown in the headline above.
