@@ -20,7 +20,7 @@ but also briefly explains why you take each step.
 
 If you follow through the steps in this guide you'll have a small website showing everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, advanced linking techniques, and so on.
 
-### Advantages to usig GitHub Pages
+### Advantages to using GitHub Pages
 
 Still wondering whether to use GitHub Pages?
 
