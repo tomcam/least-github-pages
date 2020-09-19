@@ -1,6 +1,6 @@
 # The Least You Need to Know About GitHub Pages
 
-View this in [Github Pages](https://tomcam.github.io/least-github-pages/)
+View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
 This guide shows you how to create information-heavy websites quickly 
 and interactively using GitHub Pages right on the GitHub website. You
