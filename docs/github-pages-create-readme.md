@@ -29,7 +29,7 @@ must have a file named `README.md` in them.
 In the edit area, add the following text (or something like it; the literal words don't matter):
 
 ```
-# Thank you for using our product
+# Please start here
 
 Welcome, and thanks for choosing our product.
 ```
