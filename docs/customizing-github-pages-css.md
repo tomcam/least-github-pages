@@ -38,6 +38,12 @@ Now it's time to add a minimal file to which we can add CSS rules.
 
 You've just created a minimal SASS file.
 
+## CSS
+
+CSS, or Cascading Style sheets, lets you create a master file that changes the appearance of all
+HTML files that include it. For example, suppose you want all level 2 headers to be colored red.
+You can do that by adding a 12 characters CSS rule, as illustrated below.
+
 ### Jekyll, CSS, SASS, and SCSS files
 
 Since CSS is a bit limited regarding variables, namespace scoping, and expression evaluation, Jekyll uses
