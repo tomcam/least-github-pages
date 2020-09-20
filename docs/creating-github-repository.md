@@ -1,4 +1,4 @@
-## Creating a GitHub repository for your projects
+# Creating a GitHub repository for your projects
 
 The GitHub *repository*, also konwn as a *repo*, stores your project and its entire history. 
 Git allows you to go back to any commit point and reconstruct your project up to that point.
@@ -22,3 +22,29 @@ On some configurations you may see the **Start a project** button, so click it i
 * Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
 That's it. Don't create a README. That will come in just a moment.
+
+## The GitHub repository URL is always https://github.com/{userid}/{reponame}
+
+GitHub repositories all use the same naming convention, which is `https://github.com/{userid}/{reponame}`:
+
+Starting with:
+
+* **https://github.com/
+
+Followed by:
+
+* Your GitHub username/account name, followed by a `/` slash. The creator of this repo has the GitHub username **tomcam**, for example.
+
+Followed by:
+
+* The name of the repo.
+
+So the name of this repository is https://github.com/tomcam/least-github-pages.
+
+## Example repo URLs
+
+* The name of the Microsoft Visual Studio Code repository is https://github.com/microsoft/vscode
+* The name of the Twitter Bootstrap CSS framework repository is https://github.com/twbs/bootstrap
+* The name of the https://FreeCodeCamp.org repo is https://github.com/freeCodeCamp/freeCodeCamp
+
+The reason to beat you over the head with this is that your published website will follow its own URL naming convention, and it's easy to derive one from the other.
