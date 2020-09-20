@@ -21,15 +21,16 @@ GitHub Pages uses [Jekyll](https://jekyllrb.com), a publishing system based on t
 [The Least You Need to Know About GitHub Pages](./) is designed for people who don't happen to know Jekyll already but who need to get up to speed in GitHub Pages quickly to get a job done *now*. It tells you not only what to do step by step,
 but also briefly explains why you take each step.
 
-You probably don't want to use this guide to create GitHub Pages sites that require complex formatting. GitHub Pages uses Markdown. 
-It uses Jekyll to turn that Markdown into HTML, based on the Jekyll theme you've chosen. Generally speaking this approach is
+You probably don't want to use this guide to create web pages that require complex, individual formatting on a per-page basis. 
+GitHub Pages uses Markdown, which has some limited formatting information but not a lot.
+GitHub Pages then uses Jekyll to turn that Markdown into HTML, based on the Jekyll theme you've chosen. Generally speaking this approach is
 absolutely ideal for blogs, technical documents and instructional materials that require versioning and collaboration, where the
-main work product is words and pictures. It is not a good fit for restaurant menu sites, consumer product sites, and so on where
+main work product is words and pictures. It is not a good fit for things like boutique pages, restaurant menu sites, consumer product sites, and so on where
 custom formatting is the norm. 
 
 ## What you'll end up with
 
-If you follow through the steps in this guide you'll have a small website showing everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, advanced linking techniques, and so on.
+If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, and advanced features of GitHub-flavored Markdown.
 
 ### Advantages to using GitHub Pages
 
@@ -37,7 +38,7 @@ Still wondering whether to use GitHub Pages? See [Advantages to using GitHub Pag
 
 ### Disadvantages to using GitHub Pages
 
-If you want to understand why GitHub pages may not suite your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
+If you want to understand why GitHub pages may not suit your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
 ## Table of contents
 
