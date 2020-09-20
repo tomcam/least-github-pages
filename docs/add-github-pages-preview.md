@@ -19,36 +19,42 @@ to build up a URL based on a separate URL named `github.io`, not `github.com`.
 Recalling [Creating a GitHub repository for your projects](creating-github-repository.md#repo-url), your GitHub repository address is
 always made up of these components:
 
-* **https://github.com/**
+```
+https://github.com/
+```
 
-Followed by:
+Followed by your GitHub username/account name, and a `/` slash. The creator of this repo has the GitHub username `tomcam`, for example.
 
-* Your GitHub username/account name, followed by a `/` slash. The creator of this repo has the GitHub username **tomcam**, for example.
+```
+https://github.com/tomcam/
+```
 
-Followed by:
+Followed by the name of the repo.
 
-* The name of the repo.
+So the name of this repository is https://github.com/tomcam/least-github-pages:
 
-So the name of this repository is https://github.com/tomcam/least-github-pages.
+```
+https://github.com/tomcam/least-github-pages
+```
 
 ### Use the elements of your GitHub repo URL to derive your GitHub Pages URL
 
 Taking the parts of your URL, create the GitHub pages URL for it this way:
 
-* Start with `https://` followed your GitHub account name. For example, if your GitHub account name
+* Start with `https://` followed your GitHub account name, and a period after that. For example, if your GitHub account name
 happened to be `tomcam`:
 
 ```
-https://tomcam
+https://tomcam.
 ```
 
-* Follow it with **github.io** NOT **github.com
+* Follow it with `github.io` NOT `github.com`:
 
 ```
 https://tomcam.github.io
 ```
 
-* Followed it with a slash `/` and your repo name. For example, if your repo name were `least-github-pages`, the GitHub.io address would be:
+* Follow it with a slash `/` and your repo name. For example, if your repo name were `least-github-pages`, the GitHub.io address would be:
 
 ```
 https://tomcam.github.io/least-github-pages
