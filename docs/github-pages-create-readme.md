@@ -49,6 +49,8 @@ issues easily if you wish.
 
 After clicking **Commit changes** ou are now looking at your newly edited `/docs/README.md` file in preview mode. GitHub's preview mode displays all Markdown files like this, whether they are using its built-in Jekyll themes or not.
 
+![Screen shot of new README.md file in GitHub preview](github-pages-example-readme-1024x512.png)
+
 If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
 
 ## GitHub pages pretends /docs/README.md is actually /README.md
