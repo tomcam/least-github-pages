@@ -31,7 +31,7 @@ Now it's time to add a minimal file to which we can add CSS rules.
 ```
 ---
 ---
-@import ""
+@import "";
 ```
 
 * Choose the green **Commit new file** button to save your work.
@@ -65,7 +65,7 @@ You should see this:
 ```
 ---
 ---
-@import ""
+@import "";
 ```
 
 * Add `h2 {color:red}` under the `@import statement`, like this:
@@ -73,7 +73,8 @@ You should see this:
 ```
 ---
 ---
-@import ""
+@import "";
+
 h2 {color:red}
 ```
 * Choose the green **Commit new file** button to save your work.
