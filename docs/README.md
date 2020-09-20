@@ -23,14 +23,16 @@ few exta characters thrown in to structure the document. For example, the headin
 `## What brought you here`. That's called a level 2 header. The heading to this page was created by typing
 `# The Least You Need to Know About GitHub Pages`. That is of course a level 1 header. You create a link to
 a site such as [Google](https://google.com) by typing `[Google](https://google.com)`. These are examples of an an industry-standard
-format called *Markdown* or [CommonMark](https://commonmark.org).
+format called *Markdown* or [CommonMark](https://commonmark.org). 
+* This guide teaches enough Markdown to let you create a complete, full-featured informational site, then points
+you to more comprehensive sources when you're ready to up your game.
 * Your website can use [these free themes](https://pages.github.com/themes/) from GitHub.
 * This guide will show you how to create structured informational websites of any size. "Informational" is an informal
 way of saying that you have limited control over the visual appearance. Even so you'll be able to link to outside websites
-and pages, link to interior pages and selected locations within those pages and use images, and handle simple formatting. 
+and pages, link to interior pages and selected locations within those pages, use images, handle simple formatting, and
+do a fair bit of visual customization using CSS to override the defaults.
 * Nothing you do here will ever need to be thrown away. Should you decide that the limitations of GitHub pages are too severe,
 you will lose none of your work. The Markdown pages you create can work with any other static site generator.
-
 
 ## Intended audience
 
