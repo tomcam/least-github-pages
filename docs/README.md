@@ -34,43 +34,17 @@ If you want to understand why GitHub pages may not suite your project, see [When
 
 This short GitHub shows in just a few pages how to:
 
-* [Create a GitHub Account](#creating-a-github-account)
-* [Create a GitHub repository](#creating-a-repository-for-your-projects)
-* Create web pages by typing using a convention called Markdown, which lets
+* [Create a GitHub Account](creating-github-account.md)
+* [Create a GitHub repository](creating-github-repository.md)
+* [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
+* [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
+* [Create web pages easily](create-page-github.md) by typing using a convention called Markdown, which lets
 you type `# The Least You Need to Know About GitHub Pages` and see it 
 rendered as an HTML page, as shown in the headline above.
 * Publish your pages as a GitHub Pages website
 * Link to other pages on your site
 * Link pages to other sites or other pages on your own site
 * Change the appearance of your site using Jekyll themes
-
-If you're ready to start, click for the [GitHub Pages Tutorial](README.md).
-If you're not sure why you should use GitHub, read on.
-
-## Creating a GitHub Account
-
-You only need to do this once:
-
-* First [Join GitHub](https://github.com/join). It's free.
-
-Your GitHub account is allowed unlimited public projects.
-This guide shows how to create a GitHub Pages site from a public project.
-
-## Creating a repository for your projects
-
-* Choose the **+** symbol, then **New repository** (or just click this [Create new repository](https://github.com/new) link).
-
-The **Create a new repository** page appears.
-
-![Creating a new repository](./assets/create-new-github-repository.png)
-
-On some configurations you may see the **Start a project** button, so click it if so.
-
-![Creating a new repository](./assets/github-start-project.png)
-
-* Give the repository a name. Normally it's best to use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
-
-* Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
 ## Creating the first page at /docs/README.md 
 
@@ -97,29 +71,6 @@ hierarchy:
 All GitHub Pages directories with files meant to appear in the website
 must have a file named `README.md` in them.
 
-## All pages have headers and text
-
-Create a page that looks something like this. It doesn't matter what you write,
-as long as you start the first line with a hash tag and a space, like so: `# `
-
-```
-# Please start here
-
-Thanks for using our product.
-```
-
-The `# ` signfies a level 1 header. The text underneath it is plain text.
-
-Let's call this page done for now. 
-
-* At the bottom of the page choose **Commit new file**.
-
-You can optionally put a brief note in the top line (50 characters or less by convention)
-and a longer explanation under it.
-
-Github shows the page rendered as HTML:
-
-![Your first README.md](./assets/github-pages-first-readme.png)
 
 ## Set master branch to /docs folder 
 
