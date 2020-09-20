@@ -69,7 +69,7 @@ This short GitHub Pages tutorial shows how to:
 * [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
 * [Set the GitHub Pages master branch to the /docs folder](set-github-pages-master-branch.md)
 * [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
-* [Create web page on GitHub](create-page-github.md) using Markdown
+* [Create a web page on GitHub](create-page-github.md) using Markdown
 * Creating Markdown links to other sites 
 * Creating Markdown links to other pages on your own site
 * Creating Markdown links to the interior of a page
