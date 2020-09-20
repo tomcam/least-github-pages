@@ -58,7 +58,7 @@ use CSS in the `style.scss` file in the examples here.
 
 Let's try a harmless change to your CSS to illustrate its behavior on GitHub Pages.
 
-* Choose the `/docs/assets/css/style.scss` linkt to the file you just created, then click the Pencil icon so you can edit it.
+* Choose the `/docs/assets/css/style.scss` link to the file you just created, then click the Pencil icon so you can edit it.
 
 You should see this:
 
