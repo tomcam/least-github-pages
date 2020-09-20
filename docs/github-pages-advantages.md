@@ -1,4 +1,4 @@
-# Why use GitHub Pages? 
+# Advantages to using GitHub Pages to generate static sites
 
 GitHub Pages is ideally suited for the creation of small-to-medium informational sites, 
 especially technical documentation and other how-to subjects.
@@ -11,6 +11,7 @@ attention to formatting. It transforms simple text files into beautiful websites
 natural set of conventions similar to the way many people format email. But
 because it centers around text files, you can easily pick them up and move them to a different
 content management system if don't like GitHub Pages
+* You can use it as the source for other hosting services, such as [Netlify](https://netlify.com)
 * [GitHub Pages](https://pages.github.com) is built on top of Git and GitHub, a powerful version control combination.
 Version control lets you roll back to earlier versions of a page (or the whole site)
 if you make a mistake somewhere
