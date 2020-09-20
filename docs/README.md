@@ -61,9 +61,9 @@ If you're not sure about the advantages of using GitHub pages, see [Why Use GitH
 
 If you want to understand why GitHub pages may not suite your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
-## What this GitHub pages tutorial covers
+## Table of contents
 
-This short GitHub shows in just a few pages how to:
+This short GitHub Pages tutorial shows how to:
 
 * [Create a GitHub Account](creating-github-account.md)
 * [Create a GitHub repository](creating-github-repository.md)
@@ -74,8 +74,9 @@ This short GitHub shows in just a few pages how to:
 * [UNFINISHED: Create web pages easily](create-page-github.md) by typing using a convention called Markdown, which lets
 you type `# The Least You Need to Know About GitHub Pages` and see it 
 rendered as an HTML page, as shown in the headline above.
-* Link to other pages on your site
-* Link pages to other sites or other pages on your own site
+* Link to other sites 
+* Link to other pages on your own site
+* Link to the interior of a page
 * [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css.md#assets)
 * [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md##css)
 * [Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
