@@ -43,6 +43,11 @@ You will be able to restore to any commit point in history if you wish. Your aud
 also be able to suggest changes using GitHub Issues, and you'll be able to link to those
 issues easily if you wish.
 
+## See your README.md in preview mode
+
+After clicking **Commit changes** ou are now looking at your newly edited `/docs/README.md` file in preview mode. GitHub's preview mode displays all Markdown files like this, whether
+they are using its built-in Jekyll themes or not.
+
 ## GitHub pages pretends /docs/README.md is actually /README.md
 
 In this project, your `README.md` file **does not live in the repo's root directory**. 
