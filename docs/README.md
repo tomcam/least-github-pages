@@ -32,7 +32,8 @@ way of saying that you have limited control over the visual appearance. Even so 
 and pages, link to interior pages and selected locations within those pages, use images, handle simple formatting, and
 do a fair bit of visual customization using CSS to override the defaults.
 * Nothing you do here will ever need to be thrown away. Should you decide that the limitations of GitHub pages are too severe,
-you will lose none of your work. The Markdown pages you create can work with any other static site generator.
+you will lose none of your work. Markdown is an accepted input format for hundreds, perhaps thousands of content management
+systems. The Markdown pages you create here can work with any other static site generator.
 
 ## Intended audience
 
@@ -43,7 +44,7 @@ but also briefly explains why you take each step.
 
 You probably don't want to use this guide to create GitHub Pages sites that require complex formatting. GitHub Pages uses Markdown. 
 It uses Jekyll to turn that Markdown into HTML, based on the Jekyll theme you've chosen. Generally speaking this approach is
-absolutely ideal for technical documents and instructional materials that require versioning and collaboration, where the
+absolutely ideal for blogs, technical documents and instructional materials that require versioning and collaboration, where the
 main work product is words and pictures. It is not a good fit for restaurant menu sites, consumer product sites, and so on where
 custom formatting is the norm. 
 
@@ -53,9 +54,7 @@ If you follow through the steps in this guide you'll have a small website showin
 
 ### Advantages to using GitHub Pages
 
-Still wondering whether to use GitHub Pages?
-
-If you're not sure about the advantages of using GitHub pages, see [Why Use GitHub Pages?](github-pages-advantages.md)
+Still wondering whether to use GitHub Pages? See [Why Use GitHub Pages?](github-pages-advantages.md)
 
 ### Disadvantages to using GitHub Pages
 
@@ -70,17 +69,14 @@ This short GitHub Pages tutorial shows how to:
 * [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
 * [Set the GitHub Pages master branch to the /docs folder](set-github-pages-master-branch.md)
 * [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
-
-* [UNFINISHED: Create web pages easily](create-page-github.md) by typing using a convention called Markdown, which lets
-you type `# The Least You Need to Know About GitHub Pages` and see it 
-rendered as an HTML page, as shown in the headline above.
-* Link to other sites 
-* Link to other pages on your own site
-* Link to the interior of a page
+* [Create web page on GitHub](create-page-github.md) using Markdown
+* Creating Markdown links to other sites 
+* Creating Markdown links to other pages on your own site
+* Creating Markdown links to the interior of a page
 * [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css.md#assets)
 * [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md##css)
 * [Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
 * [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
-* Add images to your GitHub Pages site](adding-images-github-pages-site.md)
+* [Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * Change the appearance of your site using Jekyll themes
 
