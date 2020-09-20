@@ -20,7 +20,7 @@ of the command line, or knowledge of HTML and CSS (though the latter will help y
 interactively on the GitHub website, and it's totally free. 
 * All you need to know to create your website is how to type, with a
 few exta characters thrown in to structure the document. For example, the heading to this paragraph was created by typing
-`## What brought you here`. That's called a level 2 header. The heading to this page was created by typing
+`## What brought you here`. That's called a level 2 header. It was used to generate the HTML code shown here in simplified form: `<h2><a id="user-content-what-brought-you-here" href="#what-brought-you-here"></a>What brought you here</h2>` The heading to this page was created by typing
 `# The Least You Need to Know About GitHub Pages`. That is of course a level 1 header. You create a link to
 a site such as [Google](https://google.com) by typing `[Google](https://google.com)`. These are examples of an an industry-standard
 format called *Markdown* or [CommonMark](https://commonmark.org). 
