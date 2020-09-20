@@ -24,6 +24,25 @@ hierarchy:
 All GitHub Pages directories with files meant to appear in the website
 must have a file named `README.md` in them.
 
+* Add some Markdown text
+
+In the edit area, add the following text (or something like it; the literal words don't matter):
+
+```
+# Thank you for using our product
+
+Welcome, and thanks for choosing our product.
+```
+
+## Save your changes
+
+* Save the changes to your text by choosing the **Commit changes** button.
+
+Why doesn't it just say **Save**? Because GitHub keeps a complete history of your document.
+You will be able to restore to any commit point in history if you wish. Your audience will
+also be able to suggest changes using GitHub Issues, and you'll be able to link to those
+issues easily if you wish.
+
 ## GitHub pages pretends /docs/README.md is actually /README.md
 
 In this project, your `README.md` file **does not live in the repo's root directory**. 
