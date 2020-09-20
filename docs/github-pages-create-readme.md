@@ -24,3 +24,18 @@ hierarchy:
 All GitHub Pages directories with files meant to appear in the website
 must have a file named `README.md` in them.
 
+## GitHub pages pretends /docs/README.md is actually /README.md
+
+In this project, your `README.md` file **does not live in the repo's root directory**. 
+That's because GitHub Pages publications normally serve as documentation for a software project.
+That documentation is expected to have its `README.md` file in the repo's root directory.
+GitHub Pages uses an implementation of Jekyll that therefore treats `/docs` for the repo's
+GitHub Pages project as the documentation's root file location.
+
+When viewing any GitHub repository GitHub previews its `README.md` in markdown format, if supplied. But if
+your only `README.md` appears in the `/docs` directory, then it gets displayed instead.
+
+### An actual /README.md file overrides /docs/README.md
+
+If your GitHub repo contains both a `/README.md` and a `/docs/README.md`, then GitHub displays the
+former as the default.
