@@ -3,6 +3,8 @@
 GitHub Pages is ideally suited for the creation of small-to-medium informational sites, 
 especially technical documentation and other how-to subjects.
 
+* Nothing to install, and no files to store on your own machine. This guide shows you how to create your web pages interactively on the [GitHub](https://github.com) website. You can literally start a page on your work machine, update it using your phone on the bus,
+and finish it on your home machine
 * It's free (for public sites)
 * It's based on Markdown (sometimes called markup) a simple approach to writing that emphasizes the text itself, with minimal
 attention to formatting. It transforms simple text files into beautiful websites. You write the text files using a simple, 
@@ -20,5 +22,5 @@ finished page and make edits to it instantly, with automatic control
 * It's web-based, so you can start a page at home, then pick it up later a work without having to 
 install any software or copy files manually
 * It's ideally suited for simple read-only blogs where absolute control over formatting isn't as important
-as getting information across.
+as getting information across
 
