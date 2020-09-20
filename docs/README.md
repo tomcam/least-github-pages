@@ -45,8 +45,8 @@ rendered as an HTML page, as shown in the headline above.
 * Publish your pages as a GitHub Pages website
 * Link to other pages on your site
 * Link pages to other sites or other pages on your own site
-* [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css#assets.md)
-* [Adding Custom CSS to GitHub Pages](customizing-github-pages-css#css.md)
+* [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css.md#assets)
+* [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md##css)
 * Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * Change the appearance of your site using Jekyll themes
 
