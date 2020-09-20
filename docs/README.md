@@ -39,11 +39,14 @@ This short GitHub shows in just a few pages how to:
 * [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
 * [Set the GitHub Pages master branch to the /docs folder](set-github-pages-master-branch.md)
 * [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
-* [Create web pages easily](create-page-github.md) by typing using a convention called Markdown, which lets
+* [UNFINISHED: Create web pages easily](create-page-github.md) by typing using a convention called Markdown, which lets
 you type `# The Least You Need to Know About GitHub Pages` and see it 
 rendered as an HTML page, as shown in the headline above.
 * Publish your pages as a GitHub Pages website
 * Link to other pages on your site
 * Link pages to other sites or other pages on your own site
+* [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css#assets.md)
+* [Adding Custom CSS to GitHub Pages](customizing-github-pages-css#css.md)
+* Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * Change the appearance of your site using Jekyll themes
 
