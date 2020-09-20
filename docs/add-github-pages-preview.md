@@ -1,8 +1,8 @@
 # Your GitHub Pages URL and adding preview to your README.md
 
 It can be a little confusing, but when you're using GitHub and viewing a Markdown page you're seeing a simple
-preview of that page with a style sheet chosen by GitHub. The style sheet is part of a Jekyll theme named `minima`. That can't be changed. To view the document using your custom CSS formatting requires viewing it in GitHub pages. It will still be using the `minima` theme but
-your CSS overrides what's in `minima`.
+preview of that page with a style sheet chosen by GitHub. The style sheet is part of a Jekyll theme named `minima`. Neither can be changed
+using GitHub preview. To view the document using your custom CSS formatting requires viewing it in GitHub Pages. It will still be using the `minima` theme but your CSS overrides what's in the `minima` theme.
 
 All you have to do to see your document with its final formatting is figure out the GitHub pages address. Here's an example link:
 
@@ -62,7 +62,8 @@ View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly
 * [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 ```
 
-
-
-
 ## It can take a few moments to generate the current GitHub Pages page and formatting
+
+GitHub Pages doesn't generate your new website every time you make changes to a repo. It updates "lazily", meaning
+that it won't generate the website until someone actually browses to the GitHub Pages URL. It can take up to a minute 
+or two for your GitHub Pages site to be generated the first time it's viewed.
