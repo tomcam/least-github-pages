@@ -20,8 +20,8 @@ you to more comprehensive sources when you're ready to up your game.
 ## There are several themes available
 Your GitHub Pages website can use [these free themes](https://pages.github.com/themes/) from GitHub.
 
-## Designed to make even big sites manageable 
-This guide will show you how to create structured informational websites of any size. "Informational" is an informal
+## Designed to make even big sites simple to create and maintain 
+This guide will show you how to create structured informational websites of any size. *Informational* is an informal
 way of saying that you have limited control over the visual appearance. Even so you'll be able to link to outside websites
 and pages, link to interior pages and selected locations within those pages, use images, handle simple formatting, and
 do a fair bit of visual customization using CSS to override the defaults.
