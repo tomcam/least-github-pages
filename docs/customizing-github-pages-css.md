@@ -17,7 +17,8 @@ Jekyll prefers the `assets` directory  is directly under the `/docs` directory. 
 
 * Click the **Add file** button, then choose **Create new file**.
 
-* For the file name, enter `/assets/css/style.scss`
+* For the file name, enter `assets/css/style.scss`, meaning its full representation will be  `your-username/your-repo/docs/assets/css/style.scss`, where `your-username` is your GitHub username and `your-repo` is the name of the repository
+you just created.
 
 Notice that each type you type a slash, the GitHub editor creates a new subdirectory. That's 
 just what you want to happen.
