@@ -1,4 +1,4 @@
-# Creating the first page at /docs/README.md 
+# Create the main GitHub Pages README file in /docs/README.md 
 
 The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
 and if you're using GitHub Pages, you should put it in a directory named `/docs`. 
