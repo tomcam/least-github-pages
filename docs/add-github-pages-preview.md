@@ -8,7 +8,12 @@ All you have to do to see your document with its final formatting is figure out 
 
 View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
-## Determining the name of your GitHub Pages site
+## The GitHub Pages repository URL is always https://{userid}.github.io/{reponame}
+
+The GitHub Pages URL is based on the GitHub repo URL, and takes the format ` https://{userid}.github.io/{reponame}`.
+The moment you use it, GitHub Pages will generate a website based on the contents of your repo.
+
+### Determining the name of your GitHub Pages site
 
 Your first job is to make sure you know the full URL of your GitHub repo. You will then use most of that information
 to build up a URL based on a separate URL named `github.io`, not `github.com`.
