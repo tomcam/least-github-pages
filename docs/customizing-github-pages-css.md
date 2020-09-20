@@ -25,7 +25,7 @@ just what you want to happen.
 
 ### Creating the style.scss file
 
-Now it's time to add a minimal file to which we can add CSS rules.
+Now it's time to add text to the empty file.
 
 * After typing the filename go down to the editor and give it these contents:
 
@@ -53,7 +53,7 @@ SASS files end in `.scss`, and by tradition the main such file is named `style.s
 process of converting a Jekyll site to the published HTML is reading the `.scss` file, then translating it into CSS. 
 
 Use of SASS is out of the scope of this document, but luckily SASS lets you use plain CSS so we'll just
-use CSS in the `style.scss` file in the examples here.
+use CSS in the `style.scss` file in the examples here. All you need to do is put your CSS after the `@import "";` line.
 
 ### Testing a CSS addition
 
@@ -79,7 +79,4 @@ You should see this:
 h2 {color:red}
 ```
 * Choose the green **Commit new file** button to save your work.
-
-
-
 
