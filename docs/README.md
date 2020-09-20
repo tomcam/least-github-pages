@@ -9,6 +9,29 @@ on your own computer.
 
 GitHub Pages is free if your repository (file storage area) is public.
 
+## What brought you here
+
+If you were pointed to this site by an employer or well-meaning friend and aren't quite sure why, 
+here are some reasons you this guide may help you.
+
+* **The Least You Need to Know About GitHub Pages** shows you how to create a website using [GitHub](https://github.com),
+which is normally thought of as a resource only for programmers. However, this guide requires no programming skills, use
+of the command line, or knowledge of HTML and CSS (though the latter will help you as you grow). Everything is done
+interactively on the GitHub website, and it's totally free. 
+* All you need to know to create your website is how to type, with a
+few exta characters thrown in to structure the document. For example, the heading to this paragraph was created by typing
+`## What brought you here`. That's called a level 2 header. The heading to this page was created by typing
+`# The Least You Need to Know About GitHub Pages`. That is of course a level 1 header. You create a link to
+a site such as [Google](https://google.com) by typing `[Google](https://google.com)`. These are examples of an an industry-standard
+format called *Markdown* or [CommonMark](https://commonmark.org).
+* Your website can use [these free themes](https://pages.github.com/themes/) from GitHub.
+* This guide will show you how to create structured informational websites of any size. "Informational" is an informal
+way of saying that you have limited control over the visual appearance. Even so you'll be able to link to outside websites
+and pages, link to interior pages and selected locations within those pages and use images, and handle simple formatting. 
+* Nothing you do here will ever need to be thrown away. Should you decide that the limitations of GitHub pages are too severe,
+you will lose none of your work. The Markdown pages you create can work with any other static site generator.
+
+
 ## Intended audience
 
 GitHub Pages uses [Jekyll](https://jekyllrb.com), a publishing system based on the Ruby programming language. The Jekyll documentation is excellent, especially if you already know Jekyll, program in Ruby, and have both Ruby and Jekyll installed on your local computer. The GitHub Pages documentation is comprehensive and excellent--if you're already a Jekyll expert.
