@@ -18,7 +18,7 @@ This guide teaches enough Markdown to let you create a complete, full-featured i
 you to more comprehensive sources when you're ready to up your game.
 
 ## There are several themes available
-Your website can use [these free themes](https://pages.github.com/themes/) from GitHub.
+Your GitHub Pages website can use [these free themes](https://pages.github.com/themes/) from GitHub.
 
 ## Designed to make even big sites manageable 
 This guide will show you how to create structured informational websites of any size. "Informational" is an informal
