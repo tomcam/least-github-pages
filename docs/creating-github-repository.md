@@ -29,19 +29,23 @@ That's it. Don't create a README. That will come in just a moment.
 
 GitHub repositories all use the same naming convention, which is `https://github.com/{userid}/{reponame}`:
 
-Starting with:
+* Starting with with the Github URL followed by a `/` slash:
 
-* **https://github.com/**
+```
+https://github.com/
+```
 
-Followed by:
+* Followed by your GitHub username/account name, then by a `/` slash. The creator of this repo has the GitHub username `tomcam`, for example, so you'd have:
 
-* Your GitHub username/account name, followed by a `/` slash. The creator of this repo has the GitHub username **tomcam**, for example.
+```
+https://github.com/tomcam/
+```
 
-Followed by:
+* Followed by the name of the repo, in this case `least-github-pages`.  The completed URL would be:
 
-* The name of the repo.
-
-So the name of this repository is https://github.com/tomcam/least-github-pages.
+```
+https://github.com/tomcam/least-github-pages
+```
 
 ## Example repo URLs
 
