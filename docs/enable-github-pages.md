@@ -13,5 +13,8 @@ The **Settings** page appears.
 
 You'll see **Source** subheading and a button that says **None**.
 
-![Choose the None button, then choose master branch/docs folder](./assets/find-github-pages-setting.png)
+![Choose the None button, then choose **Branch: master**](./assets/find-github-pages-setting.png)
 
+* In the next button choose */docs*.
+
+* Choose the **Save** button.
