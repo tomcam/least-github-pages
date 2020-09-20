@@ -7,7 +7,6 @@ using GitHub preview. To view the document using your custom CSS formatting requ
 All you have to do to see your document with its final formatting is figure out the GitHub pages address. Here's an example link:
 
 View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
-* [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 
 ## Determining the name of your GitHub Pages site
 
