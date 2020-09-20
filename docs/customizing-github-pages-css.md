@@ -30,8 +30,6 @@ Now it's time to add text to the empty file.
 * After typing the filename go down to the editor and give it these contents:
 
 ```
----
----
 @import "";
 ```
 
@@ -64,16 +62,12 @@ Let's try a harmless change to your CSS to illustrate its behavior on GitHub Pag
 You should see this:
 
 ```
----
----
 @import "";
 ```
 
 * Add `h2 {color:red}` under the `@import statement`, like this:
 
 ```
----
----
 @import "";
 
 h2 {color:red}
