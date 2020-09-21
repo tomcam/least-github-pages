@@ -1,49 +1,17 @@
 # The Least You Need to Know About GitHub Pages
 
-View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
-
-This guide shows you how to create information-heavy websites quickly 
-and interactively using GitHub Pages right on the GitHub website. You
-don't need to learn command-line programs like Git or install anything
-on your own computer.
-
-GitHub Pages is free if your repository (file storage area) is public.
-
-## What brought you here
+View this site in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
 If you were pointed to this site by an employer or well-meaning friend and aren't quite sure why, 
 plenty of reasons this guide may help you are in [Why Use GitHub Pages?](why-use-github-pages.md)
 
-## Intended audience
-
-GitHub Pages uses [Jekyll](https://jekyllrb.com), a publishing system based on the Ruby programming language. The Jekyll documentation is excellent, especially if you already know Jekyll, program in Ruby, and have both Ruby and Jekyll installed on your local computer. The GitHub Pages documentation is comprehensive and excellent--if you're already a Jekyll expert.
-
-[The Least You Need to Know About GitHub Pages](./) is designed for people who don't happen to know Jekyll already but who need to get up to speed in GitHub Pages quickly to get a job done *now*. It tells you not only what to do step by step,
-but also briefly explains why you take each step.
-
-You probably don't want to use this guide to create web pages that require complex, individual formatting on a per-page basis. 
-GitHub Pages uses Markdown, which has some limited formatting information but not a lot.
-GitHub Pages then uses Jekyll to turn that Markdown into HTML, based on the Jekyll theme you've chosen. Generally speaking this approach is
-absolutely ideal for blogs, technical documents and instructional materials that require versioning and collaboration, where the
-main work product is words and pictures. It is not a good fit for things like boutique pages, restaurant menu sites, consumer product sites, and so on where
-custom formatting is the norm. 
-
-## What you'll end up with
-
-If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, and advanced features of GitHub-flavored Markdown.
-
-### Advantages to using GitHub Pages
-
-Still wondering whether to use GitHub Pages? See [Advantages to using GitHub Pages to generate static sites](github-pages-advantages.md)
-
-### Disadvantages to using GitHub Pages
-
-If you want to understand why GitHub pages may not suit your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
+**What you can get out of this guide:*  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, and advanced features of GitHub-flavored Markdown.
 
 ## Table of contents
 
 This short GitHub Pages tutorial shows how to:
 
+* [Intended audience](#intended-audience)
 * [Create a GitHub Account](creating-github-account.md)
 * [Create a GitHub repository](creating-github-repository.md)
 * [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
@@ -59,4 +27,33 @@ This short GitHub Pages tutorial shows how to:
 * [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 * [Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * Change the appearance of your site using Jekyll themes
+
+This guide shows you how to create information-heavy websites quickly 
+and interactively using GitHub Pages right on the GitHub website. You
+don't need to learn command-line programs like Git or install anything
+on your own computer.
+
+GitHub Pages is free if your repository (file storage area) is public.
+
+## Intended audience
+
+GitHub Pages uses [Jekyll](https://jekyllrb.com), a publishing system based on the Ruby programming language. The Jekyll documentation is excellent, especially if you already know Jekyll, program in Ruby, and have both Ruby and Jekyll installed on your local computer. The GitHub Pages documentation is comprehensive and excellent--if you're already a Jekyll expert.
+
+[The Least You Need to Know About GitHub Pages](./) is designed for people who don't happen to know Jekyll already but who need to get up to speed in GitHub Pages quickly to get a job done *now*. It tells you not only what to do step by step,
+but also briefly explains why you take each step.
+
+You probably don't want to use this guide to create web pages that require complex, individual formatting on a per-page basis. 
+GitHub Pages uses Markdown, which has some limited formatting information but not a lot.
+GitHub Pages then uses Jekyll to turn that Markdown into HTML, based on the Jekyll theme you've chosen. Generally speaking this approach is
+absolutely ideal for blogs, technical documents and instructional materials that require versioning and collaboration, where the
+main work product is words and pictures. It is not a good fit for things like boutique pages, restaurant menu sites, consumer product sites, and so on where
+custom formatting is the norm. 
+
+### Advantages to using GitHub Pages
+
+Still wondering whether to use GitHub Pages? See [Advantages to using GitHub Pages to generate static sites](github-pages-advantages.md)
+
+### Disadvantages to using GitHub Pages
+
+If you want to understand why GitHub pages may not suit your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
