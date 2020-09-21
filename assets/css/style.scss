@@ -1,5 +1,5 @@
 ---
 ---
-@import "site.theme";
+@import "{{ site.theme }}";
 
 h2 {color:red;}
