@@ -13,5 +13,6 @@ for things like [sitemaps](https://help.github.com/en/articles/sitemaps-for-gith
 * [Customizing CSS and  HTML in your Jekyll  theme](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme) from a GitHub perspective
 
 ## Jekyll
+* [Assets](https://jekyllrb.com/docs/assets/#sassscss) discusses Jekyll's handling of CSS
 * [Minima](https://github.com/jekyll/minima) is widely cited as a good Jekyll theme to study
 * [Cheatsheet](https://devhints.io/jekyll) from DevHints.i
