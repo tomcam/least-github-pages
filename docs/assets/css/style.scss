@@ -1,17 +1,13 @@
 ---
 ---
-
 @import "{{ site.theme }}";
-
 h2 {color:red;}
-
-body {background-color:#EAF3FE;font-family:"Times","Times New Roman","New York","sans-serif";}
-
+html {font-family:"Times","Times New Roman","New York","sans-serif";}
+body {background-color:#EAF3FE;}
 img {
 display: block;
 width: 66%;
 border: 1px solid lightgray;
 padding: 10px;
 box-shadow: 1px 1px 1px 1px #888888;
-
 }
