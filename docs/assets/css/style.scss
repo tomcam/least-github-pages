@@ -1,8 +1,8 @@
 ---
 ---
 @import "{{ site.theme }}";
-h2 {color:gray;}
-p {font-family:Times,"Times New Roman","New York",serif;font-size:16pt;width:40rem;max-width:40em;}
+h2 {font-height:4rem;font-weight:bold;}
+p {font-family:Times,"Times New Roman","New York",serif;font-size:1.5rem;width:40rem;max-width:40em;}
 
 body {background-color:#EAF3FE;}
 img {
