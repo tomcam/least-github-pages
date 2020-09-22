@@ -5,7 +5,7 @@ View this site in [Github Pages](https://tomcam.github.io/least-github-pages/) o
 If you were pointed to this site by an employer or well-meaning friend and aren't quite sure why, 
 plenty of reasons this guide may help you are in [Why Use GitHub Pages?](why-use-github-pages.md)
 
-**What you can get out of this guide:*  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, and advanced features of GitHub-flavored Markdown.
+**What you can get out of this guide:**  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. Not covered are advanced topics such as custom themes, SEO, and advanced features of GitHub-flavored Markdown.
 
 ## Table of contents
 
