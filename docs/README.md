@@ -20,9 +20,10 @@ This short GitHub Pages tutorial shows how to:
 * [Set the GitHub Pages master branch to the /docs folder](set-github-pages-master-branch.md)
 * [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
 * [Create a web page on GitHub](create-page-github.md) using Markdown
-* Creating Markdown links to other sites 
+* [Headers in Markdown](markdown-headers.md)
+* [Creating Markdown links to other sites](markdown-links-to-other-sites.md)
 * Creating Markdown links to other pages on your own site
-* Creating Markdown links to the interior of a page
+* [Creating Markdown links to the interior of a page](markdown-link-page-interior.md)
 * [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css.md#assets)
 * [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md##css)
 * [Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
