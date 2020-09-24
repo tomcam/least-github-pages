@@ -29,9 +29,43 @@ The internal linking feature is one element of many. For complete details, see t
 
 ## Page hierarchies using folders
 
-The simplest layout looks something like this.
+The simplest layout for a GitHub Pages repository looks something like this.
 
 ```markdown
+docs/
+  ├── README.md
+  ├── about.md
+  ├── contact.md
+  ├── chapter1.md
+  ├── chapter2.md
+  └── tutorial/
+        ├── start.md
+        └── config.md
+
+docs/
+  ├── README.md
+  ├── about.md
+  ├── contact.md
+  ├── chapter1.md
+  ├── chapter2.md
+  ├── assets/
+  │     ├── css/
+  │     │    └── style.scss
+  │     └── img/
+  │          └── screenshot-home-1024x512.png
+  ├── tutorial/
+  │     ├── start.md
+  │     └── config.md
+  └── reference/
+        ├── v1/
+        │    └── reference1.0.md
+        └── v2/
+             └── reference2.0.md
+
+
+
+
+/do cs └── 
 ┌── README.md
 ├── about.md
 ├── contact.md
