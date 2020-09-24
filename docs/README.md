@@ -35,6 +35,7 @@ This short GitHub Pages tutorial discusses:
 * [Set the GitHub Pages master branch to the /docs folder](set-github-pages-master-branch.md)
 * [Create the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
 * [Create a web page on GitHub](create-page-github.md) using Markdown
+* [GitHub Pages directory and file usage](github-pages-directory-file-usage.md)
 * [Creating Markdown links to other pages on your own site](markdown-links.md)
 * [Headers in Markdown](markdown-headers.md)
 * [Creating Markdown links to other sites](markdown-links-to-other-sites.md)
