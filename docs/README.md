@@ -11,7 +11,7 @@ GitHub Pages is free if your repository (file storage area) is public.
 * [Github Pages](https://tomcam.github.io/least-github-pages/)
 * Directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
-If you were pointed to this site by an employer or well-meaning friend and aren't quite sure why, 
+If you were pointed here by an employer or well-meaning friend and aren't quite sure why, 
 plenty of reasons this guide may help you are in [Why Use GitHub Pages?](why-use-github-pages.md)
 
 **What this guide is for:** This guide is laser-focused on one thing: showing how to get a working informational website up and running as fast
