@@ -4,7 +4,7 @@
 
 A dropdown appears with **Create new file** and **Upload files** options.
 
-![Screenshot showing GitHub's Add file button selected](github-create-new-file-1024x514.png)
+![Screenshot showing GitHub's Add file button selected](./assets/github-create-new-file-1024x514.png)
 
 * Choose **Create new file**.
 
