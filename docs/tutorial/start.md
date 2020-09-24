@@ -2,5 +2,5 @@
 
 Fully qualified path to `/docs/contact.md` is [here](/docs/contact.md)
 
-Relative path to `/docs/contact.md` is [here](../chapter1.md)
+Relative path to `/docs/contact.md` is [here](../contact.md)
 
