@@ -1,9 +1,23 @@
 # The Least You Need to Know About GitHub Pages
 
-View this site in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
+This guide shows you how to create information-heavy websites quickly 
+and interactively using GitHub Pages right on the GitHub website. You
+don't need to learn command-line programs like Git or install anything
+on your own computer.
+
+GitHub Pages is free if your repository (file storage area) is public.
+
+**Ways to view this site**
+* [Github Pages](https://tomcam.github.io/least-github-pages/)
+* Directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
 If you were pointed to this site by an employer or well-meaning friend and aren't quite sure why, 
 plenty of reasons this guide may help you are in [Why Use GitHub Pages?](why-use-github-pages.md)
+
+**What this guide is for:** This guide is laser-focused on one thing: showing how to get a working informational website up and running as fast
+as possible using GitHub Pages, using only the GitHub website. *Informational website* is an informal term meaning that the emphasis is on
+function (structured text with simple formatting, links, images) and not form (intricate page design). It goes step by step from the very beginning
+and assumes very little knowledge on your part.
 
 **What you can get out of this guide:**  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. 
 You'll do this all on the free GitHub website, without having to download or install anything.
@@ -11,7 +25,7 @@ Not covered are advanced topics such as using Git on the command line, custom th
 
 ## Table of contents
 
-This short GitHub Pages tutorial shows how to:
+This short GitHub Pages tutorial discusses:
 
 * [Intended audience](#intended-audience)
 * [Create a GitHub Account](creating-github-account.md)
@@ -30,13 +44,6 @@ This short GitHub Pages tutorial shows how to:
 * [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 * [Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * Change the appearance of your site using Jekyll themes
-
-This guide shows you how to create information-heavy websites quickly 
-and interactively using GitHub Pages right on the GitHub website. You
-don't need to learn command-line programs like Git or install anything
-on your own computer.
-
-GitHub Pages is free if your repository (file storage area) is public.
 
 ## Intended audience
 
