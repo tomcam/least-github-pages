@@ -17,7 +17,7 @@ The link goes to `contact.md`, not `contact.html`, and we know the
 job of a static site generator like Jekyll, which is used by GitHub,
 is to convert Markdown files to HTML. How does this turn into a valid link?
 
-By a modest level of trickery.  Jekyll, along with the way GitHub Page's
+Jekyll, along with the way GitHub Page's
 webserver is tuned, sees internal links like `contact.md` and converts
 them to something like `contact` or `contact.html`.
 
@@ -27,64 +27,6 @@ GitHub wanted extra features of Markdown, so it add many features to the specifi
 The internal linking feature is one element of many. For complete details, see the
 [GitHub-flavored Markdown Spec](https://github.github.com/gfm/) technical spec.
 
-## Page hierarchies using folders
-
-The simplest layout for a GitHub Pages repository looks something like this.
-
-```markdown
-docs/
-  ├── README.md
-  ├── about.md
-  ├── contact.md
-  ├── chapter1.md
-  ├── chapter2.md
-  └── tutorial/
-        ├── start.md
-        └── config.md
-
-docs/
-  ├── README.md
-  ├── about.md
-  ├── contact.md
-  ├── chapter1.md
-  ├── chapter2.md
-  ├── assets/
-  │     ├── css/
-  │     │    └── style.scss
-  │     └── img/
-  │          └── screenshot-home-1024x512.png
-  ├── tutorial/
-  │     ├── start.md
-  │     └── config.md
-  └── reference/
-        ├── v1/
-        │    └── reference1.0.md
-        └── v2/
-             └── reference2.0.md
-
-
-
-
-/do cs └── 
-┌── README.md
-├── about.md
-├── contact.md
-├── chapter1.md
-└── chapter2.md
-```
-
-If you have sections consisting of more than one file, it's very 
-useful to put them in subdirectories. Each subdirectory must
-contain a `README.md` of its own. 
- 
-```
-┌── README.md
-├── chapter1.md
-├── chapter2.md
-└── chapter3/
-        ├── article1.md
-        └── article2.md
-```
 
 A link from within `README.md` to `article 2.md` would therefore look like this:
 
