@@ -27,25 +27,7 @@ Welcome, and thanks for choosing our product.
 If you want to dive right in, try our [quick start tutorial](./). 
 ```
 
-## Save your changes
-
-* Save the changes to your text by choosing the **Commit changes** button.
-
-Why doesn't it just say **Save**? Because GitHub keeps a complete history of your document.
-You will be able to restore to any commit point in history if you wish. Your audience will
-also be able to suggest changes using GitHub Issues, and you'll be able to link to those
-issues easily if you wish.
-
-## See your document in preview mode
-
-After clicking **Commit changes** ou are now looking at your file in preview mode. 
-GitHub's preview mode displays all Markdown files like this, whether they are using its built-in Jekyll themes or not.
-
-![Screen shot of new README.md file in GitHub preview](./assets/github-pages-example-readme-1024x512.png)
-
-If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
-
-## Save (commit) your new file
+## Save (commit) your file
 
 * At the bottom of the page choose **Commit new file**.
 
@@ -54,6 +36,18 @@ and a longer explanation under it. This comes in handy later when you have multi
 people working on the same document, or when you want a record later of why you
 made a change to a document.
 
-Github generates HTML based on the Markdown and renders the page:
+Why doesn't it just say **Save**? Because GitHub keeps a complete history of your document.
+You will be able to restore to any commit point in history if you wish. Your audience will
+also be able to suggest changes using GitHub Issues, and you'll be able to link to those
+issues easily if you wish.
 
-![Your first README.md](./assets/github-pages-first-readme.png)
+## See your document in preview mode
+
+After clicking **Commit changes** you are now looking at your file in preview mode. 
+GitHub's preview mode displays all Markdown files like this, whether they are using its built-in Jekyll themes or not.
+Github generates HTML based on the Markdown and renders the page based on the theme you've chosen,
+which in this case is the default:
+
+![Screen shot of new README.md file in GitHub preview](./assets/github-pages-example-readme-1024x512.png)
+
+If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
