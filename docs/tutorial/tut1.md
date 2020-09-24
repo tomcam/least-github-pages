@@ -5,7 +5,7 @@
 
 | Link text             | Live link                  |
 | --------------------- | -------------------------- |
-| /docs/README.md       | [/README.md](/README.md)   |
+| /docs/README.md       | [/docs/README.md](/docs/README.md)   |
 | ../../README.md       | [../../README.md](../../README.md)|
 | ../../                | [../../](../../)|
 | ../                   | [../](../)|
