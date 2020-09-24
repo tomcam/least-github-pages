@@ -19,7 +19,7 @@ If the file ends in `.txt` or other unknown extension, it shows no formatting.
 interactively, visually distinguishing each level of the directory
 hierarchy. This goes only one level down but you can go as deep as necessary.
 
-![Each slash creates a new directory](./assets/github-enter-start-slash-filename.png)
+![Each slash creates a new directory](./assets/github-enter-start-slash-filename-1024x512.png)
 
 * Add some Markdown text
 
