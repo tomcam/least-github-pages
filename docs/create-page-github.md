@@ -15,6 +15,12 @@ assumes a Markdown file. If the file ends in a programming language extension kn
 say, `.js` for Javascript, it highlights the code. 
 If the file ends in `.txt` or other unknown extension, it shows no formatting.
 
+* Enter a name such as `tutorial/start.md` and you'll see how GitHub separates the path and filename
+interactively, visually distinguishing each level of the directory
+hierarchy. This goes only one level down but you can go as deep as necessary.
+
+![Each slash creates a new directory](./assets/github-enter-start-slash-filename.png)
+
 * Add some Markdown text
 
 In the edit area, add the following text (or something like it; the literal words don't matter):
