@@ -1,4 +1,6 @@
 # Welcome to the Tutorial Start
 
-Fully qualified path to `/docs/tutorial/contact.md` is [here](/docs/tutorial/contact.md)
+Fully qualified path to `/docs/contact.md` is [here](/docs/contact.md)
+
+Relative path to `/docs/contact.md` is [here](../chapter1.md)
 
