@@ -86,7 +86,7 @@ for the most part it's just called the path in this guide.
 
 The last couple of points describe relative directories. Relative directories also have notation, where a single dot followed by a slash `./` refers to the current directory, and two docs followed by a slash `../` refer to the parent directory. So:
 
-* A link from within the document `contact.md` to the file `screenshot-home-1024x512.png` would look like this: 'assets/img/screenshot-home-1024x512.png` (no relative notation used)
+* A link from within the document `contact.md` to the file `screenshot-home-1024x512.png` would look like this: `assets/img/screenshot-home-1024x512.png` (no relative notation used)
 * A link from within the document `start.md` to the file `chapter1.md` would be notated as `../chapter1.md` in relative terms.
 * A link from within the document `start.md`  to the file `contact.md` could be notated as *without* a relative path as `/docs/tutorial/contact.md`,
 which is also termed a *fully qualified pathname*.
