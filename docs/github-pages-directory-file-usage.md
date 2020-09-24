@@ -43,7 +43,7 @@ docs/
 * To use something other than the default GitHub Pages theme, GitHub's Jekyll requires that you put the name of the theme
 in a file named `_config.yml` placed in the root of your GitHub Pages repository. 
 * To customize the CSS in the current theme,  GitHub's Jekyll requires that you need to put that CSS in a file named `style.scss` 
-placed in a directory named `docs/assets` as shown below.
+placed in a directory named `docs/assets` as shown below. (See [CSS](customizing-github-pages-css.md#css) for more details)
 * By convention it's good to put image files in the `/assets` directory, typically in a subdirectory named `img`.
 
 ```
