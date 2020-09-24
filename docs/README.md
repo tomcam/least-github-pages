@@ -21,7 +21,8 @@ and assumes very little knowledge on your part.
 
 **What you can get out of this guide:**  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. 
 You'll do this all on the free GitHub website, without having to download or install anything.
-Not covered are advanced topics such as using Git on the command line, custom themes, SEO, and advanced features of GitHub-flavored Markdown.
+Not covered are advanced topics such as using Git on the command line, custom themes, SEO, versionp control,
+and advanced features of GitHub-flavored Markdown.
 
 ## Table of contents
 
