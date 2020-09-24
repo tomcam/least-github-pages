@@ -1,4 +1,4 @@
-## Creating a new file on GitHub
+# Creating a new file on GitHub
 
 * Choose the **Add file ▾** button.
 
@@ -20,6 +20,15 @@ interactively, visually distinguishing each level of the directory
 hierarchy. This goes only one level down but you can go as deep as necessary.
 
 ![Each slash creates a new directory](./assets/github-enter-start-slash-filename-1024x512.png)
+
+## Directory creation on GitHub is so easy it's worth a second look
+
+Let's look at how simple it was to create a directory interactively on GitHub and review some things.
+* **When you're creating a path with a new directory, you must always create a file too.** 
+Git doesn't allow empty directories in a repository, so GitHub doesn't either.
+* **You can backspace to go higher in the directory tree** If you backspace enough so that
+the directory name is erased, GitHub won't create that directory. 
+Obviously it won't delete an existing directory that has files in it.
 
 * Add some Markdown text
 
