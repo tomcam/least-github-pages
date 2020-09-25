@@ -79,8 +79,7 @@ The opposite of a subdirectory is a parent directory. So:
 
 Any description of a file location is called a path. 
 For example, the full pathname of `README.md` in the above example is `/docs/README.md`. 
-The correct term for that path is *fully qualified pathname* or sometimes *fully qualified filename*, but
-for the most part it's just called the path in this guide.
+The correct term for that path is either *absolute path* or *fully qualified pathname*, for the most part it's just called the path in this guide.
 
 ### Relative directories
 
@@ -92,11 +91,10 @@ The last couple of points describe relative directories. Relative directories al
 which is also termed a *fully qualified pathname*.
 * A link from within the document `reference1.0.md` to `chapter1.md` would be notated as`../../chapter1.md` in relative terms.
 
-
 ## Linking to Markdown documents in a subdirectory/child directory
 
-Building on [relative directories](#relative-directories)
-                                                     
+Building on [relative directories](#relative-directories), here are full examples.
+                                                    
 
 ## GitHub-flavored Markdown links with .md get silently converted to HTML links
 
