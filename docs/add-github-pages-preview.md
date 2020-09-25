@@ -72,7 +72,7 @@ View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly
 * [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 ```
 
-## It can take a few moments to generate the current GitHub Pages page and formatting
+## It can take a few moments to generate the current GitHub Pages site
 
 GitHub Pages doesn't generate your new website every time you make changes to a repo. It updates "lazily", meaning
 that it won't generate the website until someone actually browses to the GitHub Pages URL. It can take up to a minute 
