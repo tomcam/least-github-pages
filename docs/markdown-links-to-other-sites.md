@@ -1,6 +1,6 @@
 ## Creating Markdown links to other sites
 
-Markdown such as ` [contact someone](./contact.md)` gets turned into an HTML link. The part 
+Markdown such as `[contact someone](./contact.md)` gets turned into an HTML link. The part 
 of the link in square brackets, `contact someone` in this case, becomes the anchor text (the
 visible part of a link, and the part that gets indexed by search engines). The part in 
 parentheses, `./contact.md` in this case, gets becomes a reference to an HTML file by the same 
