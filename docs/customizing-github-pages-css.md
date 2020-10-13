@@ -1,11 +1,17 @@
-# Adding an assets directory to your GitHub Pages site
+# Adding custom CSS to GitHub Pages 
+
+GitHub Pages is based on [Jekyll](https://jekyllrb.com), which uses the [Sass](https://sass-lang.com/) preprocessor for
+CSS. Sass is a big subject but luckily it's compatible with CSS. Adding custom CSS to your GitHub pages means
+creating an `assets/css` subdirectory, then putting a file called `style.scss` into it. That process is shown below.
+
+## Adding an assets directory to your GitHub Pages site
 
 While you can store any kind of file in a GitHub directory, certain files get better treatment than others.
 If you want image files in your repo to display, or to customize the CSS, the easiest way is to follow 
 Jekyll conventions and create an [assets directory](https://jekyllrb.com/docs/step-by-step/07-assets/).
 Here's how to do it in GitHub Pages. The assets directory should contain subdirectories for CSS and images.
 
-## Assets
+## Create the directory /docs/assets/css
 
 Creating an assets directory is a two-step process because Git doesn't recognize empty directories.
 You will therefore need to create the assets directory and add at least an empty style sheet (or any other file)
@@ -27,7 +33,8 @@ just what you want to happen.
 
 Now it's time to add text to the empty file.
 
-* After typing the filename go down to the editor and give it these contents:
+* After typing the filename go down to the editor and give it these contents, where `site.theme` is literally
+what you'd type below.
 
 ```
 ---
@@ -43,17 +50,18 @@ You've just created a minimal SASS file.
 
 CSS, or Cascading Style sheets, lets you create a master file that changes the appearance of all
 HTML files that include it. For example, suppose you want all level 2 headers to be colored red.
-You can do that by adding a 12 characters CSS rule, as illustrated below.
+You can do that by adding a simple CSS rule, as illustrated below.
 
 ### Jekyll, CSS, SASS, and SCSS files
 
-Since CSS is a bit limited regarding variables, namespace scoping, and expression evaluation, Jekyll uses
+CSS is a bit limited regarding variables, namespace scoping, and expression evaluation. Jekyll uses
 a preprocessor named [SASS](https://sass-lang.com/guide) as its default style sheet formatting system.
 SASS files end in `.scss`, and by tradition the main such file is named `style.scss`. Part of the build
 process of converting a Jekyll site to the published HTML is reading the `.scss` file, then translating it into CSS. 
 
 Use of SASS is out of the scope of this document, but luckily SASS lets you use plain CSS so we'll just
-use CSS in the `style.scss` file in the examples here. All you need to do is put your CSS after the `@import "";` line.
+use CSS in the `style.scss` file in the examples here. All you need to do is put your CSS 
+after the `@import "{{ site.theme }}";` line.
 
 ### Testing a CSS addition
 
