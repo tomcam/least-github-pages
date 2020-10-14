@@ -44,8 +44,8 @@ This short GitHub Pages tutorial discusses:
 * [Change the appearance of your GitHub Pages site using Jekyll themes](github-pages-jekyll-themes.md)
 * [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md#css)
 * [TODO: Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
-* [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 * [TODO: Add images to your GitHub Pages site](adding-images-github-pages-site.md)
+* [Your GitHub Pages URL and adding preview to your README.md](add-github-pages-preview.md)
 
 ## Intended audience
 
