@@ -8,15 +8,16 @@ All you have to do to see your document with its final formatting is figure out 
 
 View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
 
-## The GitHub Pages repository URL is always https://{userid}.github.io/{reponame}
-
-The GitHub Pages URL is based on the GitHub repo URL, and takes the format ` https://{userid}.github.io/{reponame}`.
-The moment you use it, GitHub Pages will generate a website based on the contents of your repo.
-
-### Determining the name of your GitHub Pages site
+## Determine the name of your GitHub Pages site
 
 Your first job is to make sure you know the full URL of your GitHub repo. You will then use most of that information
 to build up a URL based on a separate URL named `github.io`, not `github.com`.
+
+The name of this repository is https://github.com/tomcam/least-github-pages:
+
+```
+https://github.com/tomcam/least-github-pages
+```
 
 ### Get the name of your GitHub repo
 
@@ -33,13 +34,17 @@ Followed by your GitHub username/account name, and a `/` slash. The creator of t
 https://github.com/tomcam/
 ```
 
-Followed by the name of the repo.
-
-So the name of this repository is https://github.com/tomcam/least-github-pages:
+Followed by the name of the repo, so:
 
 ```
 https://github.com/tomcam/least-github-pages
 ```
+
+## The GitHub Pages repository URL is always https://{userid}.github.io/{reponame}
+
+The GitHub Pages URL is based on the GitHub repo URL, and takes the format ` https://{userid}.github.io/{reponame}`.
+The moment you use it, GitHub Pages will generate a website based on the contents of your repo.
+
 
 ### Use the elements of your GitHub repo URL to derive your GitHub Pages URL
 
