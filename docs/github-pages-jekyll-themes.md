@@ -50,7 +50,8 @@ the previous example.
 
 ### Example: Leap Day theme
 
-* To see how it works with a theme name containing spaces, change `_config.yml` as shown here:
+* To see how it works with a theme name containing spaces, try the Leap Day theme. 
+Change `_config.yml` as shown here:
 
 ```
 theme: jekyll-theme-leap-day
