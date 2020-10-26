@@ -43,9 +43,10 @@ This short GitHub Pages tutorial discusses:
 * [Adding an assets directory to your GitHub Pages site](customizing-github-pages-css.md#assets)
 * [Change the appearance of your GitHub Pages site using Jekyll themes](github-pages-jekyll-themes.md)
 * [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md#css)
-* [TODO: Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
 * [TODO: Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * [Determine your GitHub Pages URL](github-pages-url.md)
+* [Publish your pages as a GitHub Pages website](publish-to-github-pages.md)
+* [Privacy warning](privacy-warning.md)
 * [Add a GitHub Pages preview link to your README.md](add-github-pages-preview.md)
 
 ## Intended audience
