@@ -21,8 +21,7 @@ Need to [contact someone](./contact.md)?
 
 ## Terminology and sample directory structure to illustrate these examples
 
-Here is a typical [GitHub Pages directory structure](/github-pages-directory-file-usage.md)
-to be used in the following examples.
+Here is a typical GitHub Pages directory structure.
 
 ```
 docs/
@@ -51,14 +50,13 @@ docs/
 ### Root directory
 
 For the purposes of these illustrations, we'll call `/docs` the root directory. If you're used
-to Git projects or directory structure you may be puzzled because you might think of `/`, which
-is technically the parent directory to `/docs`, as the root. But remember, GitHub Pages prefers
-your repos to start in `/docs` because typically the actual `/` root is reserved for code.
+to Git projects or directory structure you may be puzzled because you might think of `/` as root.
+GitHub Pages prefers your documentation to start in `/docs` because typically the actual `/` root is reserved for code.
 
 ### Subdirectory
 
 In the above illustration, `tutorial` is a subdirectory of `/docs`. So are the `assets` and `reference` directories.
-You might think of them as child folders or child directories, which is fine. The normally terminology is
+You might think of them as child folders or child directories, which is fine. The normal terminology is
 subdirectory, though.
 
 Depending on context, you might see these directories called `/assets`, `/reference`, or `/tutorial`.
@@ -103,13 +101,12 @@ The link goes to `contact.md`, not `contact.html`, and we know the
 job of a static site generator like Jekyll, which is used by GitHub,
 is to convert Markdown files to HTML. How does this turn into a valid link?
 
-Jekyll, along with the way GitHub Page's
-webserver is tuned, sees internal links like `contact.md` and converts
-them to something like `contact` or `contact.html`.
+Jekyll sees internal links like `contact.md` and converts
+them to something like `contact` or `contact.html`. The GitHub webserver observes this convention too.
 
 ### GitHub-flavored Markdown differs from standard [Markdown](https://commonmark.org)
 
-GitHub wanted extra features of Markdown, so it add many features to the specification.
+GitHub uses an extended version of Markdown.
 The internal linking feature is one element of many. For complete details, see the
 [GitHub-flavored Markdown Spec](https://github.github.com/gfm/) technical spec.
 
