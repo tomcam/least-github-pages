@@ -1,7 +1,7 @@
 # Adding an assets directory GitHub Pages 
 
 GitHub Pages is based on [Jekyll](https://jekyllrb.com), which expects graphic images and custom CSS to be
-in a directory named `/assets`.
+in a directory named `assets`.
 
 While you can store any kind of file in a GitHub directory, certain files get better treatment than others.
 If you want image files in your repo to display, or to customize the CSS, the easiest way is to follow 
