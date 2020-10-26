@@ -1,26 +1,28 @@
 # Determining your GitHub Pages URL
 
 It can be a little confusing, but when you're using GitHub and viewing a Markdown page you're seeing a simple
-preview of that page with a style sheet chosen by GitHub. The style sheet is part of a Jekyll theme named `minima`. Neither can be changed
-using GitHub preview. To view the document using your custom CSS formatting requires viewing it in GitHub Pages. It will still be using the `minima` theme but your CSS overrides what's in the `minima` theme.
+HTML rendering of that page with a fixed style sheet chosen by GitHub.  You need a different link
+to view it in GitHub Pages using one of the GitHub Pages Jekyll themes.
 
-All you have to do to see your document with its final formatting is figure out the GitHub pages address. 
-Here's the Markdown source to an example link:
+All you have to do to see your document with its final formatting is figure out the GitHub Pages address. 
+Here's the Markdown source to both links:
 
 ```markdown
-[Github Pages](https://tomcam.github.io/least-github-pages/) or [Github](https://github.com/tomcam/least-github-pages/) 
+See the [Github Pages](https://tomcam.github.io/least-github-pages/) version of this document
 ```
 
-Here is the actual link:
+```markdown
+See the [Github](https://github.com/tomcam/least-github-pages/) version of this document
+```
 
-See in [Github Pages](https://tomcam.github.io/least-github-pages/) or on [Github](https://github.com/tomcam/least-github-pages/) 
+Here's how to create the GitHub Pages URL from the GitHub URL.
 
 ## Get the full URL of your GitHub repo
 
 Your first job is to make sure you know the full URL of your GitHub repo. 
 For example, the name of this repository is `https://github.com/tomcam/least-github-pages`. Here's how it breaks down.
 
-### Get the name of your GitHub repo
+### Start with the GitHub URL
 
 Recalling [Creating a GitHub repository for your projects](creating-github-repository.md#repo-url), your GitHub repository address is
 always made up of these components:
@@ -31,11 +33,16 @@ The GitHub website URL:
 https://github.com/
 ```
 
+### Add the username and a slash
+
 Followed by your GitHub username/account name, and a `/` slash. The creator of this repo has the GitHub username `tomcam`, for example.
 
 ```
 https://github.com/tomcam/
 ```
+
+### Add the name of your GitHub repo
+
 
 Followed by the name of the repo, so:
 
@@ -53,12 +60,15 @@ The moment you use it, GitHub Pages will generate a website based on the content
 
 Taking the parts of your URL, create the GitHub pages URL for it this way:
 
+### Start with https:// and your username
+
 * Start with `https://` followed your GitHub account name, and a period after that. For example, if your GitHub account name
 happened to be `tomcam`:
 
 ```
 https://tomcam.
 ```
+### Add github.io
 
 * Follow it with `github.io`, **not** `github.com`:
 
@@ -66,8 +76,28 @@ https://tomcam.
 https://tomcam.github.io
 ```
 
+### Add slash and the repo name
+
 * Follow it with a slash `/` and your repo name. For example, if your repo name were `least-github-pages`, the GitHub.io address would be:
 
 ```
 https://tomcam.github.io/least-github-pages
 ```
+
+### Example
+
+So this GitHub URL:
+```markdown
+[Github](https://github.com/tomcam/least-github-pages/)
+```
+
+Becomes:
+```markdown
+[Github Pages](https://tomcam.github.io/least-github-pages/)
+```
+
+Note that the parts in square brackets, `[GitHub]` in the first example, and `[GitHub Pages]`, can be any text. They
+form the clickable link in the final rendered HTML.
+
+
+
