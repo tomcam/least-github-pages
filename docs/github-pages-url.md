@@ -8,11 +8,11 @@ All you have to do to see your document with its final formatting is figure out 
 Here's the Markdown source to both links:
 
 ```markdown
-See the [Github Pages](https://tomcam.github.io/least-github-pages/) version of this document
+View on [Github Pages](https://tomcam.github.io/least-github-pages/)
 ```
 
 ```markdown
-See the [Github](https://github.com/tomcam/least-github-pages/) version of this document
+View on [Github](https://github.com/tomcam/least-github-pages/)
 ```
 
 Here's how to create the GitHub Pages URL from the GitHub URL.
