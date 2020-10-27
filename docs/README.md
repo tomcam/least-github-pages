@@ -21,6 +21,11 @@ you can find plenty of reasons in [Why Use GitHub Pages?](why-use-github-pages.m
 Not covered are advanced topics such as using Git on the command line, custom themes, SEO, version control,
 and advanced features of GitHub-flavored Markdown.
 
+**If you find problems**
+
+If there's something missing, or you detect an error, please feel free to [file an issue](https://github.com/tomcam/least-github-pages/issues)
+or just email at `tomcampbell@gmail.com`.
+
 ## Table of contents
 
 This short GitHub Pages tutorial discusses:
