@@ -1,4 +1,4 @@
-# Creating a new file on GitHub
+# Creating a web page on GitHub
 
 * Choose the **Add file ▾** button.
 
