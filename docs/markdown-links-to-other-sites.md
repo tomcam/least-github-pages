@@ -1,9 +1,12 @@
 ## Create Markdown links to other sites
 
-Markdown such as `[contact someone](./contact.md)` gets turned into an HTML link. The part 
+Let's review what happens to links in Markdown files.
+
+Markdown such as `[contact someone](./contact.md)` gets turned into an HTML link to
+a page in your repository. The part 
 of the link in square brackets, `contact someone` in this case, becomes the anchor text (the
 visible part of a link, and the part that gets indexed by search engines). The part in 
-parentheses, `./contact.md` in this case, gets becomes a reference to an HTML file by the same 
+parentheses, `./contact.md` in this case, becomes a reference to an HTML file by the same 
 name, which would be `contact.html` in the current directory.
 
 ### Linking to external web sites using Markdown
