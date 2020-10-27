@@ -15,8 +15,6 @@ and follow those steps to create a directory at `/docs/assets`.
 
 * On GitHub, navigate to the `/docs/assets` directory.
 
-![Screenshot of a GitHub pages assets directory](./assets/github-pages-assets-directory-512x512.png)
-
 * Click the **Add file** button, then choose **Upload files**
 
 ![Screenshot of uploading a file to the /docs/assets directory](./assets/github-pages-upload-pages-512x1024.png)
