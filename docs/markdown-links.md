@@ -1,4 +1,4 @@
-# Creating Markdown links to other pages on your site 
+# Create Markdown links to other pages on your site 
 
 Start with a simple `README.md`:
 
