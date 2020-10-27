@@ -117,5 +117,5 @@ A link from within `README.md` to `article 2.md` would therefore look like this:
 Take a look at [Article 2](/chapter3/article2.md) for more information.
 ```
 
-[Back](/README.md)
+[Top](/README.md) [Back](github-pages-directory-file-usage.md) [Next](markdown-headers.md)
 
