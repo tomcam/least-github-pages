@@ -1,4 +1,4 @@
-# Adding an assets directory GitHub Pages 
+# Adding an assets directory to GitHub Pages 
 
 GitHub Pages is based on [Jekyll](https://jekyllrb.com), which expects graphic images and custom CSS to be
 in a directory named `assets`.
