@@ -19,11 +19,11 @@ and follow those steps to create a directory at `/docs/assets`.
 
 ![Screenshot of uploading a file to the /docs/assets directory](./assets/github-pages-upload-pages-512x1024.png)
 
-* Upload one or more files, then click **Commit changes**
+* Upload one or more files, then choose **Commit changes** at the bottom of the page.
 
 ![Screenshot showing the commit changes button](./assets/github-pages-commit-changes-512x512.png)
 
-## Add proper Markdown to display the file
+## Add proper Markdown to display the image
 
 Now insert Markdown text to specify an image. It's the same as for a link, but preceded by a `!` character.
 For example, if you want to show a file named `logo.png` in the `assets` directory (really `/docs/assets` in this example),
