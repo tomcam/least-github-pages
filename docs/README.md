@@ -39,7 +39,6 @@ This short GitHub Pages tutorial discusses:
 * [Creating Markdown links to the interior of a page](markdown-link-page-interior.md)
 * [Adding an assets directory to your GitHub Pages site](adding-assets-directory-github-pages.md)
 * [Change the appearance of your GitHub Pages site using Jekyll themes](github-pages-jekyll-themes.md)
-* [Adding Custom CSS to GitHub Pages](customizing-github-pages-css.md#css)
 * [Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * [Determine your GitHub Pages URL](github-pages-url.md)
 * [Privacy warning](privacy-warning.md)
