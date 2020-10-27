@@ -99,6 +99,6 @@ Becomes:
 Note that the parts in square brackets, `[GitHub]` in the first example, and `[GitHub Pages]`, can be any text. They
 form the clickable link in the final rendered HTML.
 
-[Back](/README.md)
+[Top](/README.md) [Back](adding-images-github-pages-site.md) [Next](privacy-warning.md)
 
 
