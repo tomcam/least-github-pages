@@ -1,4 +1,4 @@
-## Creating headers 
+## Headers in Markdown
 
 Lines starting with `#` get converted to HTML H1 headers, lines starting with `##` become H2 headers, and so on.
 Organize your site carefully using headers because levels H1-H3 are indexed automatically by VuePress
