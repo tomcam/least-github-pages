@@ -46,7 +46,7 @@ This short GitHub Pages tutorial discusses:
 * [Privacy warning](privacy-warning.md)
 * [Add a GitHub Pages preview link to your README.md](add-github-pages-preview.md)
 
-[Back](./)
+[Back](/)
 
 ## Intended audience
 
@@ -70,4 +70,4 @@ Still wondering whether to use GitHub Pages? See [Advantages to using GitHub Pag
 
 If you want to understand why GitHub pages may not suit your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
-[Back](./)
+[Back](/)
