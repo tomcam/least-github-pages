@@ -38,4 +38,4 @@ image. It's used by screen readers for visually impaired users.
 
 ![Book logo](./assets/logo.png)
 
-[Back](/README.md)
+[Top](/README.md) [Back](github-pages-jekyll-themes.md) [Next](github-pages-url.md)
