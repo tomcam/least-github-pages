@@ -1,4 +1,4 @@
-### Linking to headers inside a file 
+### Link to headers inside a file 
 
 GitHub Pages secretly turns every header into its own named file location.
 This lets you navigate not just to a file, but to any header
