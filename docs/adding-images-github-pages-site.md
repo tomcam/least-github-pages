@@ -25,5 +25,3 @@ and follow those steps to create a directory at `/docs/assets`.
 
 ![Screenshot showing the commit changes button](./assets/github-pages-commit-changes-512x1024.png)
 
-
-![The Settings icon for your repo is near the upper right of the page](./assets/find-settings-icon.png)
