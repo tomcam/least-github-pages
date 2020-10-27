@@ -1,8 +1,7 @@
 ## Headers in Markdown
 
 Lines starting with `#` get converted to HTML H1 headers, lines starting with `##` become H2 headers, and so on.
-Organize your site carefully using headers because levels H1-H3 are indexed automatically by VuePress
-for its blazingly fast search dialog.
+Organize your site carefully using headers because levels H1-H3 are indexed automatically by search engines.
 Putting words most relevant to your audience into headers also helps in search engine results.
 
 ```markdown
@@ -59,8 +58,6 @@ Who goes this low? and why?
 ###### H6
 
 A level 6 header is used only by spelunkers.
-
-Normal text isn't indexed by VuePress's internal search.
 
 [Top](/README.md) [Back](markdown-links.md) [Next](markdown-links-to-other-sites.md)
 
