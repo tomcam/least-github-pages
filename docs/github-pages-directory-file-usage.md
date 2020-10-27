@@ -44,7 +44,7 @@ docs/
 in a file named `_config.yml` placed in the root of your GitHub Pages repository. 
 * To customize the CSS in the current theme,  GitHub's Jekyll requires that you need to put that CSS in a file named `style.scss` 
 placed in a directory named `docs/assets` as shown below. (See [CSS](customizing-github-pages-css.md#css) for more details)
-* By convention it's good to put image files in the `/assets` directory, typically in a subdirectory named `img`.
+* By convention it's good to put image files in the `/assets` directory, typically in a subdirectory named `images`.
 * The example file `screenshot-home-1024x512.png` is imaginary, but it's necessary for this illustration because
 Git doesn't allow empty directories. You would replace this with an image file of your own.
 
@@ -55,7 +55,7 @@ docs/
   └── assets/
        ├── css/
        │    └── style.scss
-       └── img/
+       └── images/
             └── screenshot-home-1024x512.png
 ```
 
@@ -79,7 +79,7 @@ docs/
   ├── assets/
   │     ├── css/
   │     │    └── style.scss
-  │     └── img/
+  │     └── images/
   │          └── screenshot-home-1024x512.png
   ├── tutorial/
   │     ├── start.md
