@@ -54,5 +54,5 @@ process of converting a Jekyll site to the published HTML is reading the `.scss`
 
 You can put image files anywhere in the `assets` directory. Jekyll prefers them in `assets/images` but this publication simply puts them in `assets` itself.
 
-[Back](/README.md)
+[Top](/README.md) [Back](markdown-link-page-interior.md) [Next](github-pages-jekyll-themes.md)
 
