@@ -46,6 +46,8 @@ This short GitHub Pages tutorial discusses:
 * [Privacy warning](privacy-warning.md)
 * [Add a GitHub Pages preview link to your README.md](add-github-pages-preview.md)
 
+[Back](./)
+
 ## Intended audience
 
 GitHub Pages uses [Jekyll](https://jekyllrb.com), a publishing system based on the Ruby programming language. The Jekyll documentation is excellent, especially if you already know Jekyll, program in Ruby, and have both Ruby and Jekyll installed on your local computer. The GitHub Pages documentation is comprehensive and excellent--if you're already a Jekyll expert.
@@ -68,3 +70,4 @@ Still wondering whether to use GitHub Pages? See [Advantages to using GitHub Pag
 
 If you want to understand why GitHub pages may not suit your project, see [When to avoid GitHub pages](github-pages-disadvantages.md).
 
+[Back](./)
