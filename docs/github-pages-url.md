@@ -99,5 +99,6 @@ Becomes:
 Note that the parts in square brackets, `[GitHub]` in the first example, and `[GitHub Pages]`, can be any text. They
 form the clickable link in the final rendered HTML.
 
+[Back](/README.md)
 
 
