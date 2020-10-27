@@ -8,7 +8,7 @@ They can be anywhere in the `/docs/assets` path.
 ## Create a directory called /docs/assets
 
 * If you haven't yet created an assets directory, read 
-[Adding an assets directory GitHub Pages](https://github.com/tomcam/least-github-pages/blob/master/docs/adding-assets-directory-github-pages.md)
+[Adding an assets directory to GitHub Pages](https://github.com/tomcam/least-github-pages/blob/master/docs/adding-assets-directory-github-pages.md)
 and follow those steps to create a directory at `/docs/assets`.
 
 ## Upload images to the /docs/assets directory
