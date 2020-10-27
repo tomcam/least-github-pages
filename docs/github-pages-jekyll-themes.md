@@ -9,7 +9,7 @@ a number of built-in themes you can use to alter your publication's appearance
 dramatically. You can see them here. Just click on theme and look for a mention of 
 its preview mode in the GitHub repo where it resides.
 
-https://pages.github.com/themes/
+[See official GitHub Pages Jekyll themes here](https://pages.github.com/themes)
 
 ## To change the theme, use theme: in _config.yml
 
