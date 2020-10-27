@@ -66,3 +66,5 @@ which in this case is the default:
 ![Screen shot of new README.md file in GitHub preview](./assets/github-pages-example-readme-1024x512.png)
 
 If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
+
+[Back](/README.md)
