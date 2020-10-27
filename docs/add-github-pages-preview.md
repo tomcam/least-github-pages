@@ -1,4 +1,4 @@
-# Your GitHub Pages URL and adding preview to your README.md
+# Add GitHub Pages preview link to your README.md
 
 It helps to have a link like this near the top of the document so your audience can view either the
 themed GitHub Pages version or the GitHub repo preview:
