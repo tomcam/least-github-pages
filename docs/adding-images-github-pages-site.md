@@ -37,3 +37,5 @@ image. It's used by screen readers for visually impaired users.
 ### Example of the example link in action
 
 ![Book logo](./assets/logo.png)
+
+[Back](/README.md)
