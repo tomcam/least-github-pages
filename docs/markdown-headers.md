@@ -62,3 +62,5 @@ A level 6 header is used only by spelunkers.
 
 Normal text isn't indexed by VuePress's internal search.
 
+[Back](/README.md)
+
