@@ -29,8 +29,6 @@ Who goes this low? and why?
 
 A level 6 header is used only by spelunkers.
 
-Normal text isn't indexed by VuePress's internal search.
-
 ```
 
 And the result is pretty much what you'd expect:
