@@ -68,3 +68,5 @@ your only `README.md` appears in the `/docs` directory, then it gets displayed i
 
 If your GitHub repo contains both a `/README.md` and a `/docs/README.md`, then GitHub displays the
 former as the default.
+
+[Back](/README.md)
