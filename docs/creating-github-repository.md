@@ -55,7 +55,7 @@ https://github.com/tomcam/least-github-pages
 
 The reason to beat you over the head with this is that your published website will follow its own URL naming convention, and it's easy to derive one from the other.
 
-[Back](creating-github-account.md) [Next](enable-github-pages.md)
+[Previous](creating-github-account.md) [Next](enable-github-pages.md)
 
 [Top](/README.md) 
 
