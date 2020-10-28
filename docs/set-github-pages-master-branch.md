@@ -16,4 +16,6 @@ as the base directory for your documentation site.
 Changing the master branch to `/docs` means you will be able to avoid 
 specifying the `/docs` folder at the base of every link in the README directory.
 
-[Top](/README.md) [Back](enable-github-pages.md) [Next](github-pages-create-readme.md)
+[Previous Page](enable-github-pages.md)  |  [Next page](github-pages-create-readme.md)
+
+#### [Home](/README.md) 
