@@ -29,6 +29,6 @@ can view it.
 GitHub allows you to create private repositories. But nothing is stopping you from enabling GitHub Pages on your private repo.
 Be warned that if you do so, people will be able to view GitHub Pages version of your repo.
 
-[Previous page](creating-github-repository.md)  |. [Next page](set-github-pages-master-branch.md)
+[Previous page](creating-github-repository.md)  |  [Next page](set-github-pages-master-branch.md)
 
 [Top](/README.md) 
