@@ -21,7 +21,9 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
 
-That's it. Don't create a README. That will come in just a moment.
+* Under **Initialize this repository with** check **Add a README file**:
+
+![Screenshot showing Add a README file checked](github-pages-add-readme-512x512.png)
 
 <a id="repo-url"></a>
 
