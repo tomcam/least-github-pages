@@ -61,5 +61,6 @@ theme: jekyll-theme-leap-day
 
 ![Screen shot of Leap Day theme](assets/jekyll-theme-leap-day-1024x1280.png)
 
-[Top](/README.md) [Back](adding-assets-directory-github-pages.md) [Next](adding-images-github-pages-site.md)
+[Previous page](adding-assets-directory-github-pages.md) |  [Next page](adding-images-github-pages-site.md)
 
+#### [Home](/README.md) 
