@@ -19,11 +19,13 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Give the repository a name. Normally it's best to use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
 
-* Leave **Public** checked, then choose **Create repository**. Feel free to add a descripion if you wish.
+* Leave **Public** checked.
 
 * Under **Initialize this repository with** check **Add a README file**:
 
 ![Screenshot showing Add a README file checked](./assets/github-pages-add-readme-512x512.png)
+
+* Choose **Create repository**. Feel free to add a descripion if you wish.
 
 <a id="repo-url"></a>
 
