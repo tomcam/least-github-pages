@@ -52,5 +52,7 @@ head graft is a major success!
 If you click Rosie's name you'll
 be taken directly to that position in the file.
 
-[Top](/README.md) [Back](markdown-links-to-other-sites.md) [Next](adding-assets-directory-github-pages.md)
+[Previous page](markdown-links-to-other-sites.md) |  [Next page](adding-assets-directory-github-pages.md)
+
+#### [Home](/README.md) 
 
