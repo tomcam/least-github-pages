@@ -1,7 +1,7 @@
 # The Least You Need to Know About GitHub Pages
 
 **What this guide is for:** This guide is laser-focused on one thing: showing how to get a working informational website up and running as fast
-as possible using GitHub Pages, using only the GitHub website. *Informational website* is an informal term meaning that the emphasis is on
+as possible using [GitHub Pages](https://pages.github.com), using only the GitHub website. *Informational website* is an informal term meaning that the emphasis is on
 function (structured text with simple formatting, links, images) and not form (intricate page design). It goes step by step from the very beginning
 and assumes very little knowledge on your part.
 
