@@ -13,7 +13,9 @@ The **Settings** page appears.
 
 You'll see **Source** subheading and a button that says **None**.
 
-* From the **Source** subheading choose **main**.
+A **Select branch** dropdown appears. The dropdown lets you select a source.
+
+* From the **Select branch** subheading of the dropdown choose **main**.
 
 ![Choose the None button, then choose **Branch: main**](./assets/github-pages-select-branch-512x512.png)
 
