@@ -23,7 +23,7 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Under **Initialize this repository with** check **Add a README file**:
 
-![Screenshot showing Add a README file checked](github-pages-add-readme-512x512.png)
+![Screenshot showing Add a README file checked](./assets/github-pages-add-readme-512x512.png)
 
 <a id="repo-url"></a>
 
