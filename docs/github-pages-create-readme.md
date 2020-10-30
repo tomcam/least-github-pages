@@ -69,4 +69,6 @@ your only `README.md` appears in the `/docs` directory, then it gets displayed i
 If your GitHub repo contains both a `/README.md` and a `/docs/README.md`, then GitHub displays the
 former as the default.
 
-[Top](/README.md) [Back](set-github-pages-master-branch.md) [Next](create-page-github.md)
+[Previous page](set-github-pages-master-branch.md) | [Next page](create-page-github.md)
+
+#### [Home](/README.md) 
