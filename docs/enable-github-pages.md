@@ -13,6 +13,8 @@ The **Settings** page appears.
 
 You'll see **Source** subheading and a button that says **None**.
 
+* From the **Source** subheading choose **main**.
+
 ![Choose the None button, then choose **Branch: main**](./assets/github-pages-select-branch-512x512.png)
 
 * In the next button choose **/docs**:
