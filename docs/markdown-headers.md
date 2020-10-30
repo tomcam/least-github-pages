@@ -59,5 +59,5 @@ A level 6 header is used only by spelunkers.
 
 [Previous page](markdown-links.md) |  [Next page](markdown-links-to-other-sites.md)
 
-[Home](/README.md) 
+#### [Home](/README.md) 
 
