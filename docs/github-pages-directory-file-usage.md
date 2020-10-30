@@ -93,4 +93,6 @@ docs/
 **Result:** When viewed on GitHub Pages, this would render pages using whatever GitHub Pages Jekyll theme you specified in 
 `_config.yml`. It would contain links inside the directory hierarchy.
 
-[Top](/README.md) [Back](create-page-github.md) [Next](markdown-links.md)
+[Previous page](create-page-github.md) | [Next page](markdown-links.md)
+
+#### [Home](/README.md) 
