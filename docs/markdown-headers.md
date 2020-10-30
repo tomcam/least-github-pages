@@ -57,5 +57,7 @@ Who goes this low? and why?
 
 A level 6 header is used only by spelunkers.
 
-[Top](/README.md) [Back](markdown-links.md) [Next](markdown-links-to-other-sites.md)
+[Previous page](markdown-links.md) |  [Next page](markdown-links-to-other-sites.md)
+
+[Home](/README.md) 
 
