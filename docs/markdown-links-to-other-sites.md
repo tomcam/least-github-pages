@@ -18,4 +18,6 @@ use the website's actual URL in parentheses. For example:
 Try [Google](https://www.google.com/) for more info.
 ```
 
-[Top](/README.md) [Back](markdown-headers.md) [Next](markdown-link-page-interior.md)
+[Previous page](markdown-headers.md)  | [Next page](markdown-link-page-interior.md)
+
+#### [Home](/README.md) 
