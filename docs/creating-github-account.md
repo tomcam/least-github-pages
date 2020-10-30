@@ -7,5 +7,6 @@ You only need to do this once:
 Your GitHub account is allowed unlimited public projects.
 This guide shows how to create a GitHub Pages site from a public project.
 
-[Top](/README.md) [Next](creating-github-repository.md)
+[Previous page](/README.md) | [Next page](creating-github-repository.md)
 
+#### [Home](/README.md) 
