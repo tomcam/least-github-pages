@@ -61,6 +61,21 @@ theme: jekyll-theme-leap-day
 
 ![Screen shot of Leap Day theme](assets/jekyll-theme-leap-day-1024x1280.png)
 
+
+### Example: Merlot:
+
+* Or the Merlot theme: 
+Change `_config.yml` as shown here:
+
+```
+theme: jekyll-theme-leap-merlot
+```
+
+* And view it in GitHub pages:
+
+![Screen shot of Merlot theme](assets/jekyll-theme-merlot-1024x1280.png)
+
 [Previous page](adding-assets-directory-github-pages.md) |  [Next page](adding-images-github-pages-site.md)
+
 
 #### [Home](/README.md) 
