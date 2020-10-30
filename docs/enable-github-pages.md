@@ -19,7 +19,9 @@ You'll see **Source** subheading and a button that says **None**.
 
 ![Screenshot showing the /docs button choice](./assets/github-pages-select-docs-branch512x512.png)
 
-* Choose the **Save** button.
+* Choose the **Save** button:
+
+![Screenshot showing complete GitHub Pages settings](./assets/github-pages-show-ghpages-settings-512x512.png)
 
 ## Warning Part 1: Your site is now visible to the entire Internet
 
