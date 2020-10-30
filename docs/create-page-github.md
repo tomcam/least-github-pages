@@ -67,4 +67,6 @@ which in this case is the default:
 
 If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
 
-[Top](/README.md) [Back](github-pages-create-readme.md) [Next](github-pages-directory-file-usage.md)
+[Previous page](github-pages-create-readme.md) | [Next page](github-pages-directory-file-usage.md)
+
+#### [Home](/README.md) 
