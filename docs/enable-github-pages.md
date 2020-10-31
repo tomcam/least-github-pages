@@ -39,4 +39,5 @@ Be warned that if you do so, people will be able to view GitHub Pages version of
 
 [Previous page](creating-github-repository.md)  |  [Next page](set-github-pages-master-branch.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
+
