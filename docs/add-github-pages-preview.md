@@ -16,4 +16,4 @@ It can take up several minutes for your GitHub Pages site to be generated after 
 
 [Previous page](privacy-warning.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
