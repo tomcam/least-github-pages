@@ -33,8 +33,8 @@ This short GitHub Pages tutorial discusses:
 * [Intended audience](#intended-audience)
 * [Create a GitHub Account](creating-github-account.md)
 * [Create a GitHub repository](creating-github-repository.md)
-* [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
 * [Edit the main GitHub Pages README file in /docs/README.md](github-pages-create-readme.md)
+* [Enable GitHub Pages](enable-github-pages.md) so you can create and publish a formatted website 
 * [Create a web page on GitHub](create-page-github.md) using Markdown
 * [GitHub Pages directory and file usage](github-pages-directory-file-usage.md)
 * [Create Markdown links to other pages on your own site](markdown-links.md)
