@@ -20,4 +20,4 @@ Try [Google](https://www.google.com/) for more info.
 
 [Previous page](markdown-headers.md)  | [Next page](markdown-link-page-interior.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
