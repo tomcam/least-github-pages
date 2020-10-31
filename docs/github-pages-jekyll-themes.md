@@ -78,4 +78,4 @@ theme: jekyll-theme-leap-merlot
 [Previous page](adding-assets-directory-github-pages.md) |  [Next page](adding-images-github-pages-site.md)
 
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
