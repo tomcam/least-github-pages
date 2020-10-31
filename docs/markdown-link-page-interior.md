@@ -54,5 +54,5 @@ be taken directly to that position in the file.
 
 [Previous page](markdown-links-to-other-sites.md) |  [Next page](adding-assets-directory-github-pages.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
 
