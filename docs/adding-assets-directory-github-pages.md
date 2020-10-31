@@ -56,5 +56,5 @@ You can put image files anywhere in the `assets` directory. Jekyll prefers them 
 
 [Previous page](markdown-link-page-interior.md) | [Next page](github-pages-jekyll-themes.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
 
