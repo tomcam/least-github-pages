@@ -1,4 +1,4 @@
-# Creating a GitHub repository for your projects
+# Creating a GitHub repository for your project
 
 The GitHub *repository*, also konwn as a *repo*, stores your project and its entire history. 
 Git allows you to go back to any commit point and reconstruct your project up to that point.
@@ -37,6 +37,10 @@ You'll get a page that looks like this:
 
 ![Screenshot showing a new repo without README.md checked](./assets/github-pages-new-repo-just-created-no-readme-1024x1280.png)
 <a id="repo-url"></a>
+
+[Previous page](creating-github-account.md) | [Next page](github-pages-create-readme.md)
+
+#### [Home](./README.md) 
 
 
 #### [Home](./README.md) 
