@@ -1,13 +1,11 @@
 # Edit the main GitHub Pages README file in /docs/README.md 
 
 The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
-and if you're using GitHub Pages, you should put it in a directory named `/docs`. 
+and place it in a directory named `/docs`. 
 Sites like the one you're creating with GitHub Pages often accompany code for a software project and `/docs` is the logical location.
+The root file `/README.md` is meant for code.
 
-More important, Jekyll expects your text to be in that directory as well.
-
-GitHub pages sites use directory structures. Each subdirectory with pages you want published must contain
-a README.md file, which will be silently converted to `index.html` files.
+More important, Jekyll expects your text to start in the `/docs/README.md` location.
 
 * Under **Quick setup — if you’ve done this kind of thing before** it says
 `Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. 
@@ -17,7 +15,7 @@ Choose the `creating a new file` link:
 
 * Enter `docs/README.md` and you'll see how GitHub separates the path and filename
 interactively, visually distinguishing each level of the directory
-hierarchy:
+hierarchy. That means you don't need to create directories manually.
 
 ![Each slash creates a new directory](./assets/github-enter-directory-slash-filename.png)
 
@@ -47,7 +45,7 @@ issues easily if you wish.
 
 ## See your README.md in preview mode
 
-After clicking **Commit changes** ou are now looking at your newly edited `/docs/README.md` file in preview mode. GitHub's preview mode displays all Markdown files like this, whether they are using its built-in Jekyll themes or not.
+After clicking **Commit changes** you are now looking at your newly edited `/docs/README.md` file in preview mode. GitHub's preview mode displays all Markdown files like this, whether they are using its built-in Jekyll themes or not.
 
 ![Screen shot of new README.md file in GitHub preview](./assets/github-pages-example-readme-1024x512.png)
 
