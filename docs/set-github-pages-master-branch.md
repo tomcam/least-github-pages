@@ -18,4 +18,5 @@ specifying the `/docs` folder at the base of every link in the README directory.
 
 [Previous Page](enable-github-pages.md)  |  [Next page](github-pages-create-readme.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
+ 
