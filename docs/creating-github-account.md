@@ -9,4 +9,4 @@ This guide shows how to create a GitHub Pages site from a public project.
 
 [Previous page](/README.md) | [Next page](creating-github-repository.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
