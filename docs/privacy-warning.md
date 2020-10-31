@@ -6,4 +6,4 @@ link unless you want your private repo to be visible to the entire Internet.
 
 [Previous page](github-pages-url.md) | [Next page](add-github-pages-preview.md)
 
-#### [Home](/README.md)
+#### [Home](./README.md) 
