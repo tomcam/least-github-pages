@@ -69,4 +69,4 @@ If you click the link you'll be redirected to the current directory. It's just t
 
 [Previous page](github-pages-create-readme.md) | [Next page](github-pages-directory-file-usage.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
