@@ -40,4 +40,4 @@ image. It's used by screen readers for visually impaired users.
 
 [Previous page](github-pages-jekyll-themes.md) |  [Next page](github-pages-url.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
