@@ -95,4 +95,4 @@ docs/
 
 [Previous page](create-page-github.md) | [Next page](markdown-links.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
