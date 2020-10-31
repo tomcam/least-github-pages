@@ -42,6 +42,3 @@ You'll get a page that looks like this:
 
 #### [Home](./README.md) 
 
-
-#### [Home](./README.md) 
-
