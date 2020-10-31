@@ -64,5 +64,5 @@ The reason to beat you over the head with this is that your published website wi
 [Previous page](creating-github-account.md) |  [Next page](enable-github-pages.md)
 
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
 
