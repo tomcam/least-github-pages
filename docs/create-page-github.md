@@ -63,7 +63,7 @@ GitHub's preview mode displays all Markdown files like this, whether they are us
 Github generates HTML based on the Markdown and renders the page based on the theme you've chosen,
 which in this case is the default:
 
-![Screen shot of new README.md file in GitHub preview](./assets/github-pages-example-readme-1024x512.png)
+![Screen shot of new README.md file in GitHub preview](./assets/github-paages-example-tutorial-1024x1024.png)
 
 If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
 
