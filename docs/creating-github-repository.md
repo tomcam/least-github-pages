@@ -19,9 +19,12 @@ On some configurations you may see the **Start a project** button, so click it i
 
 * Give the repository a name. Normally it's best to use lowercase letters, numbers. Instead of spaces and hyphen characters (the minus sign, or `-`) instead. It will be used as a filename, and it will be given prominence in Web searches.
 
-* Leave **Public** checked.
+* Leave **Public** checked. 
 
-* Feel free to add a descripion if you wish.
+The **Public** option makes your repository visible to the entire Internet. You can leave it unchecked and keep your repo
+private, but GitHub Pages by definition publishes the contents of the site (at least when links are supplied to those pages).
+
+* Feel free to add a descripion if you wish. It helps the visibility of your site in search engines.
 
 * Under **Initialize this repository with** check **Add a README file**:
 
