@@ -71,4 +71,4 @@ former as the default.
 
 [Previous page](set-github-pages-master-branch.md) | [Next page](create-page-github.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
