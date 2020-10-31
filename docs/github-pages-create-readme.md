@@ -1,4 +1,4 @@
-# Create the main GitHub Pages README file in /docs/README.md 
+# Edit the main GitHub Pages README file in /docs/README.md 
 
 The first thing needed is to create a file named specifically `README.md` capitalized exactly as shown, 
 and if you're using GitHub Pages, you should put it in a directory named `/docs`. 
@@ -69,6 +69,6 @@ your only `README.md` appears in the `/docs` directory, then it gets displayed i
 If your GitHub repo contains both a `/README.md` and a `/docs/README.md`, then GitHub displays the
 former as the default.
 
-[Previous page](set-github-pages-master-branch.md) | [Next page](create-page-github.md)
+[Previous page](creating-github-repository.md) | [Next page](enable-github-pages.md)
 
 #### [Home](./README.md) 
