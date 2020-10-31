@@ -119,5 +119,5 @@ Take a look at [Article 2](/chapter3/article2.md) for more information.
 
 [Previous Page](github-pages-directory-file-usage.md) |  [Next page](markdown-headers.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
 
