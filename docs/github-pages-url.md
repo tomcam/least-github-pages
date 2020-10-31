@@ -101,6 +101,6 @@ form the clickable link in the final rendered HTML.
 
 [Previous page](adding-images-github-pages-site.md) | [Next page](privacy-warning.md)
 
-#### [Home](/README.md) 
+#### [Home](./README.md) 
 
 
