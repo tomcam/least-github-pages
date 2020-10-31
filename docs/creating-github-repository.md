@@ -29,10 +29,13 @@ private, but GitHub Pages by definition publishes the contents of the site (at l
 * Under **Initialize this repository with** *be sure to uncheck* the **Add a README file** checkbox. GitHub normally generates a `README.md` in the root directory. This is *not* what you want want when creating a GitHub Pages project because you want to leave `README.md` for the code
 portion of a project. Even if there is no code portion, your `README.md` should not be in the root directory.
 
-![Screenshot showing Add a README file unchecked](./github-pages-new-repo-uncheck-readme-512x512.png)
+![Screenshot showing Add a README file unchecked](./assets/github-pages-new-repo-uncheck-readme-512x512.png)
 
 * Choose **Create repository**. 
 
+You'll get a page that looks like this:
+
+![Screenshot showing a new repo without README.md checked](./assets/github-pages-new-repo-just-created-no-readme-1024x1280.png)
 <a id="repo-url"></a>
 
 ## The GitHub repository URL is always https://github.com/{userid}/{reponame}
