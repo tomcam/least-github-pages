@@ -9,7 +9,7 @@ More important, Jekyll expects your text to start in the `/docs/README.md` locat
 
 * Under **Quick setup — if you’ve done this kind of thing before** it says
 `Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore`. 
-Choose the `creating a new file` link:
+Choose the **creating a new file** link:
 
 ![Creating a new repository](./assets/github-quick-setup.png)
 
@@ -51,16 +51,17 @@ After clicking **Commit changes** you are now looking at your newly edited `/doc
 
 If you click the link you'll be redirected to the current directory. It's just there to show how a link looks.
 
-## GitHub pages pretends /docs/README.md is actually /README.md
+## GitHub Pages pretends /docs/README.md is actually /README.md
 
-In this project, your `README.md` file **does not live in the repo's root directory**. 
+When you look at a GitHub repo, the default view is a list of files and directories followed
+by an HTML rendering of `/README.md` in the repo's root directory.
+
+In this project, your `README.md` file **does not live in the repo's root directory** yet
+it's displayed as if it were.
 That's because GitHub Pages publications normally serve as documentation for a software project.
 That documentation is expected to have its `README.md` file in the repo's root directory.
 GitHub Pages uses an implementation of Jekyll that therefore treats `/docs` for the repo's
 GitHub Pages project as the documentation's root file location.
-
-When viewing any GitHub repository GitHub previews its `README.md` in markdown format, if supplied. But if
-your only `README.md` appears in the `/docs` directory, then it gets displayed instead.
 
 ### An actual /README.md file overrides /docs/README.md
 
