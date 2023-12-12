@@ -1,6 +1,6 @@
 # Creating a GitHub repository for your project
 
-The GitHub *repository*, also konwn as a *repo*, stores your project and its entire history. 
+The GitHub *repository*, also known as a *repo*, stores your project and its entire history. 
 Git allows you to go back to any commit point and reconstruct your project up to that point.
 On GitHub it also has many other features, such as an effective bug/feature reporting system
 called Issues, a built-in Wiki, and easy ways for other people to check out their own
